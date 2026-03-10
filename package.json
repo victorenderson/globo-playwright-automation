@@ -1,0 +1,21 @@
+{
+  "name": "globo-playwright-suite",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Playwright test suite + POM + headline scraper for globo.com",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:ui": "playwright test --ui",
+    "scrape": "ts-node utils/scrape-headlines.ts",
+    "scrape:ts": "tsx utils/scrape-headlines.ts"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.53.0",
+    "@types/node": "^24.0.0",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.19.2",
+    "typescript": "^5.8.3",
+    "xlsx": "^0.18.5"
+  }
+}

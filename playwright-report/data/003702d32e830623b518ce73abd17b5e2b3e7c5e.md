@@ -1,0 +1,1886 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic:
+      - link "Ir para menu" [ref=e3] [cursor=pointer]:
+        - /url: "#menu-toggle"
+      - link "Ir para conteúdo principal" [ref=e4] [cursor=pointer]:
+        - /url: "#highlight-accessibility"
+      - link "Ir para rodapé" [ref=e5] [cursor=pointer]:
+        - /url: "#footer-logo-link"
+    - generic [ref=e6]:
+      - link "Página inicial globo.com" [ref=e8] [cursor=pointer]:
+        - /url: https://www.globo.com/
+        - heading "Globo.com, aqui você encontra notícias da sua região, esportes, entretenimento e muito mais" [level=1] [ref=e9]:
+          - img "Globo.com, aqui você encontra notícias da sua região, esportes, entretenimento e muito mais" [ref=e10]
+      - button "Menu" [ref=e16] [cursor=pointer]:
+        - img [ref=e17]
+        - generic [ref=e18]: Menu
+      - generic [ref=e19]:
+        - link [ref=e24] [cursor=pointer]:
+          - /url: "#"
+        - generic [ref=e28]:
+          - textbox "Encontre na globo.com" [ref=e29]
+          - generic [ref=e30]:
+            - generic [ref=e31]: Busca
+            - generic:
+              - img
+      - list "Produtos Globo" [ref=e35]:
+        - listitem [ref=e36]:
+          - link "G 1" [ref=e37] [cursor=pointer]:
+            - /url: https://g1.globo.com/?utm_source=globo.com&utm_medium=header
+            - text: g1
+        - listitem [ref=e38]:
+          - link "O Globo" [ref=e39] [cursor=pointer]:
+            - /url: https://oglobo.globo.com/?utm_source=globo.com&utm_medium=header&utm_campaign=chamada_header
+            - text: o globo
+        - listitem [ref=e40]:
+          - link "Jornal Valor Econômico" [ref=e41] [cursor=pointer]:
+            - /url: https://valor.globo.com/?utm_source=globo.com&utm_medium=header
+            - text: valor
+        - listitem [ref=e42]:
+          - link "G E" [ref=e43] [cursor=pointer]:
+            - /url: https://ge.globo.com/?utm_source=globo.com&utm_medium=header
+            - text: ge
+        - listitem [ref=e44]:
+          - link "Cartola" [ref=e45] [cursor=pointer]:
+            - /url: https://ge.globo.com/cartola/?utm_source=globocom&utm_medium=header&utm_campaign=c2022_10_cartola_cartola-2022_alcance&utm_content=HEA_cartola-2022
+            - text: cartola
+        - listitem [ref=e46]:
+          - link "Globoplay" [ref=e47] [cursor=pointer]:
+            - /url: https://globoplay.globo.com/?origemId=1760&utm_source=gcom&utm_medium=home&utm_campaign=gcom-botao-destaque-superior
+            - text: globoplay
+        - listitem [ref=e48]:
+          - link "G Show" [ref=e49] [cursor=pointer]:
+            - /url: https://gshow.globo.com/?utm_source=globo.com&utm_medium=header
+            - text: gshow
+        - listitem [ref=e50]:
+          - link "RECEITAS" [ref=e51] [cursor=pointer]:
+            - /url: https://receitas.globo.com/?utm_source=globo.com&utm_medium=header
+            - text: receitas
+        - listitem [ref=e52]:
+          - link "Revista Quem" [ref=e53] [cursor=pointer]:
+            - /url: https://revistaquem.globo.com/?utm_source=globo.com&utm_medium=header
+            - text: quem
+        - listitem [ref=e54]:
+          - link "G1 JOGOS" [ref=e55] [cursor=pointer]:
+            - /url: https://g1.globo.com/jogos/?utm_source=globo.com&utm_medium=header
+            - text: g1 jogos
+  - button "Fechar barra" [ref=e61]:
+    - img [ref=e62]
+  - generic [ref=e70]:
+    - generic [ref=e71]:
+      - link "Pão de Açúcar vai fechar mercados? De quanto é a dívida? Entenda a crise" [ref=e74] [cursor=pointer]:
+        - /url: https://g1.globo.com/economia/noticia/2026/03/10/entenda-a-crise-do-gpa.ghtml
+        - heading "Pão de Açúcar vai fechar mercados? De quanto é a dívida? Entenda a crise" [level=2] [ref=e75]
+      - list [ref=e78]:
+        - listitem [ref=e79]:
+          - link "Grupo Pão de Açúcar protocola pedido de recuperação extrajudicial" [ref=e81] [cursor=pointer]:
+            - /url: https://valor.globo.com/empresas/noticia/2026/03/10/gpa-pede-recuperacao-extrajudicial-com-divida-de-r-45-bilhoes.ghtml
+            - heading "Grupo Pão de Açúcar protocola pedido de recuperação extrajudicial" [level=2] [ref=e82]
+        - listitem [ref=e83]:
+          - link "Funcionários da rede de supermercados não devem ser afetados" [ref=e85] [cursor=pointer]:
+            - /url: https://oglobo.globo.com/economia/negocios/noticia/2026/03/10/dona-do-supermercado-pao-de-acucar-fecha-acordo-para-recuperacao-extrajudicial.ghtml
+            - heading "Funcionários da rede de supermercados não devem ser afetados" [level=2] [ref=e86]
+        - listitem [ref=e87]:
+          - link "Como ficam as ações da empresa? Analistas veem alívio de curto prazo" [ref=e89] [cursor=pointer]:
+            - /url: https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/03/10/gpa-pcar3-pede-recuperacao-extrajudicial-o-que-esperar-das-acoes-agora.ghtml
+            - heading "Como ficam as ações da empresa? Analistas veem alívio de curto prazo" [level=2] [ref=e90]
+    - generic [ref=e91]:
+      - generic [ref=e93]:
+        - link "Lula desiste de ir à posse de Kast; Flávio confirma presença" [ref=e96] [cursor=pointer]:
+          - /url: https://g1.globo.com/politica/noticia/2026/03/10/lula-desiste-de-ir-a-posse-do-novo-presidente-do-chile.ghtml
+          - figure [ref=e97]:
+            - img [ref=e98]
+          - heading "Lula desiste de ir à posse de Kast; Flávio confirma presença" [level=2] [ref=e99]
+        - list [ref=e101]:
+          - listitem [ref=e102]:
+            - link "Bolsonaro pede para assessor de Trump vê-lo" [ref=e104] [cursor=pointer]:
+              - /url: https://g1.globo.com/politica/noticia/2026/03/10/bolsonaro-pede-a-moraes-autorizacao-para-receber-visita-de-assessor-do-governo-trump-na-prisao.ghtml
+              - heading "Bolsonaro pede para assessor de Trump vê-lo" [level=2] [ref=e105]
+      - generic [ref=e107]:
+        - 'link "Blog: classificação de facções pelos EUA é ''armadilha eleitoral''" [ref=e110] [cursor=pointer]':
+          - /url: https://g1.globo.com/politica/blog/octavio-guedes/post/2026/03/10/analise-classificacao-de-cv-e-pcc-como-organizacoes-terroristas.ghtml
+          - figure [ref=e111]:
+            - img [ref=e112]
+          - 'heading "Blog: classificação de facções pelos EUA é ''armadilha eleitoral''" [level=2] [ref=e113]'
+        - list [ref=e115]:
+          - listitem [ref=e116]:
+            - 'link "Análise: impacto político e risco para soberania" [ref=e118] [cursor=pointer]':
+              - /url: https://oglobo.globo.com/brasil/noticia/2026/03/10/especialistas-avaliam-risco-a-soberania-nacional-e-impacto-politico-interno-se-eua-classificarem-pcc-e-cv-como-terroristas.ghtml
+              - 'heading "Análise: impacto político e risco para soberania" [level=2] [ref=e119]'
+      - generic [ref=e121]:
+        - link "AO VIVO Fechada uma das maiores refinarias do mundo; SIGA" [ref=e124] [cursor=pointer]:
+          - /url: https://g1.globo.com/mundo/ao-vivo/eua-ataque-ira.ghtml?postId=e557fbbb-18f1-4fde-b193-a679ee66f8cd
+          - figure [ref=e125]:
+            - img [ref=e126]
+          - generic [ref=e129]: AO VIVO
+          - heading "Fechada uma das maiores refinarias do mundo; SIGA" [level=2] [ref=e130]
+        - list [ref=e132]:
+          - listitem [ref=e133]:
+            - 'link "Irã a Trump: ''Cuidado para não ser eliminado''" [ref=e135] [cursor=pointer]':
+              - /url: https://g1.globo.com/mundo/noticia/2026/03/10/larijani-ameaca-trum-cuidado-para-nao-ser-eliminado.ghtml
+              - 'heading "Irã a Trump: ''Cuidado para não ser eliminado''" [level=2] [ref=e136]'
+      - generic [ref=e139]:
+        - link "Vorcaro foi a festa de filha de Ciro dias antes de emenda" [ref=e142] [cursor=pointer]:
+          - /url: https://g1.globo.com/politica/noticia/2026/03/10/vorcaro-esteve-em-casamento-de-filha-de-ciro-nogueira-10-dias-antes-de-senador-apresentar-emenda-master.ghtml
+          - figure [ref=e143]:
+            - img [ref=e144]
+          - heading "Vorcaro foi a festa de filha de Ciro dias antes de emenda" [level=2] [ref=e145]
+        - list [ref=e147]:
+          - listitem [ref=e148]:
+            - 'link "Lauro: as explicações do escritório Barci de Moraes" [ref=e150] [cursor=pointer]':
+              - /url: https://oglobo.globo.com/blogs/lauro-jardim/post/2026/03/as-explicacoes-do-escritorio-barci-de-moraes.ghtml
+              - 'heading "Lauro: as explicações do escritório Barci de Moraes" [level=2] [ref=e151]'
+      - generic [ref=e153]:
+        - link "Laudo vê indício de que PM desmaiou antes de tiro fatal" [ref=e156] [cursor=pointer]:
+          - /url: https://g1.globo.com/sp/sao-paulo/noticia/2026/03/10/laudo-aponta-marcas-de-pressao-e-de-unha-no-rosto-e-no-pescoco-da-pm-morta-com-tiro-na-cabeca-em-sp.ghtml
+          - figure [ref=e157]:
+            - img [ref=e158]
+          - heading "Laudo vê indício de que PM desmaiou antes de tiro fatal" [level=2] [ref=e159]
+        - list [ref=e161]:
+          - listitem [ref=e162]:
+            - link "Vídeo mostra policiais indo limpar apartamento" [ref=e164] [cursor=pointer]:
+              - /url: https://g1.globo.com/sp/sao-paulo/noticia/2026/03/10/video-camera-de-seguranca-registra-entrada-e-saida-de-3-policiais-de-apartamento-em-que-pm-foi-morta-com-tiro-na-cabeca.ghtml
+              - heading "Vídeo mostra policiais indo limpar apartamento" [level=2] [ref=e165]
+      - generic [ref=e167]:
+        - link "Veja brasileiros que estão na lista de bilionários da Forbes" [ref=e170] [cursor=pointer]:
+          - /url: https://epocanegocios.globo.com/brasil/noticia/2026/03/quem-sao-os-brasileiros-na-lista-de-bilionarios-da-forbes-em-2026.ghtml
+          - figure [ref=e171]:
+            - img [ref=e172]
+          - heading "Veja brasileiros que estão na lista de bilionários da Forbes" [level=2] [ref=e173]
+        - list [ref=e175]:
+          - listitem [ref=e176]:
+            - link "Saiba quem é o brasileiro mais rico da lista" [ref=e178] [cursor=pointer]:
+              - /url: https://g1.globo.com/economia/noticia/2026/03/10/quem-e-eduardo-saverin-o-brasileiro-mais-rico-da-lista-de-bilionarios-da-forbes.ghtml
+              - heading "Saiba quem é o brasileiro mais rico da lista" [level=2] [ref=e179]
+    - generic [ref=e180]:
+      - 'link "TEMPO REAL Champions: Lemina abre placar para Galatasaray contra Liverpool; siga" [ref=e185] [cursor=pointer]':
+        - /url: https://ge.globo.com/futebol/futebol-internacional/liga-dos-campeoes/jogo/10-03-2026/galatasaray-Liverpool.ghtml
+        - figure [ref=e186]:
+          - img [ref=e187]
+        - generic [ref=e190]: TEMPO REAL
+        - 'heading "Champions: Lemina abre placar para Galatasaray contra Liverpool; siga" [level=2] [ref=e191]'
+      - generic [ref=e193]:
+        - link "São Paulo anuncia Roger Machado como técnico" [ref=e196] [cursor=pointer]:
+          - /url: https://ge.globo.com/futebol/times/sao-paulo/noticia/2026/03/10/sao-paulo-anuncia-a-contratacao-de-roger-machado.ghtml
+          - figure [ref=e197]:
+            - img [ref=e198]
+          - heading "São Paulo anuncia Roger Machado como técnico" [level=2] [ref=e199]
+        - list [ref=e201]:
+          - listitem [ref=e202]:
+            - 'link "Roger: ''Desafio muito grande''" [ref=e204] [cursor=pointer]':
+              - /url: https://ge.globo.com/futebol/times/sao-paulo/noticia/2026/03/10/roger-machado-chega-a-sao-paulo-para-assinar-com-o-tricolor-desafio-muito-grande.ghtml
+              - 'heading "Roger: ''Desafio muito grande''" [level=2] [ref=e205]'
+      - generic [ref=e207]:
+        - 'link "Após ficar fora de partida com Ancelotti no estádio, Neymar desabafa: ''Difícil''" [ref=e210] [cursor=pointer]':
+          - /url: https://ge.globo.com/sp/santos-e-regiao/futebol/times/santos/noticia/2026/03/10/neymar-desabafa-apos-ficar-fora-de-jogo-do-santos-no-brasileirao-muito-dificil-agradar-todo-mundo.ghtml
+          - figure [ref=e211]:
+            - img [ref=e212]
+          - 'heading "Após ficar fora de partida com Ancelotti no estádio, Neymar desabafa: ''Difícil''" [level=2] [ref=e213]'
+        - list [ref=e215]:
+          - listitem [ref=e216]:
+            - 'link "Fora da Copa, Rodrygo passa por cirurgia: ''Começa nova história''" [ref=e218] [cursor=pointer]':
+              - /url: https://ge.globo.com/futebol/futebol-internacional/noticia/2026/03/10/fora-da-copa-atacante-do-real-passa-por-cirurgia-e-mira-recuperacao-nasce-um-novo-rodrygo.ghtml
+              - 'heading "Fora da Copa, Rodrygo passa por cirurgia: ''Começa nova história''" [level=2] [ref=e219]'
+      - link "Pivô de pancadaria em final, Everson fala em 'vontade de vencer'" [ref=e224] [cursor=pointer]:
+        - /url: https://ge.globo.com/futebol/times/atletico-mg/noticia/2026/03/10/em-post-everson-fala-em-cenas-lamentaveis-na-briga-entre-cruzeiro-e-atletico-mg-peco-compreensao.ghtml
+        - heading "Pivô de pancadaria em final, Everson fala em 'vontade de vencer'" [level=2] [ref=e225]
+    - generic [ref=e226]:
+      - generic [ref=e228]:
+        - link "Marciele questiona Jonas sobre comparação envolvendo Breno" [ref=e231] [cursor=pointer]:
+          - /url: https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/marciele-questiona-jonas-sulzbach-sobre-comparacao-envolvendo-breno-nao-gostei-e-fiquei-pensando.ghtml
+          - figure [ref=e232]:
+            - img [ref=e233]
+          - heading "Marciele questiona Jonas sobre comparação envolvendo Breno" [level=2] [ref=e234]
+        - list [ref=e236]:
+          - listitem [ref=e237]:
+            - link "Ana e Babu lavam roupa suja" [ref=e239] [cursor=pointer]:
+              - /url: https://gshow.globo.com/realities/bbb/bbb-26/sincerao/noticia/ana-paula-renault-e-babu-santana-lavam-roupa-suja-no-sincerao-queria-voce-no-paredao.ghtml
+              - heading "Ana e Babu lavam roupa suja" [level=2] [ref=e240]
+      - generic [ref=e242]:
+        - 'link "Cowboy troca farpas com Samira: ''Renova o embate''" [ref=e245] [cursor=pointer]':
+          - /url: https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/alberto-cowboy-troca-farpas-com-samira-voce-sempre-renova-o-embate-comigo.ghtml
+          - figure [ref=e246]:
+            - img [ref=e247]
+          - 'heading "Cowboy troca farpas com Samira: ''Renova o embate''" [level=2] [ref=e248]'
+        - list [ref=e250]:
+          - listitem [ref=e251]:
+            - 'link "Breno ganha prêmio, e Solange brinca: ''Trocar o apartamento''" [ref=e253] [cursor=pointer]':
+              - /url: https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/apos-breno-ganhar-itens-de-casa-em-acao-especial-solange-couto-brinca-tem-que-trocar-de-apartamento.ghtml
+              - 'heading "Breno ganha prêmio, e Solange brinca: ''Trocar o apartamento''" [level=2] [ref=e254]'
+      - generic [ref=e257]:
+        - 'link "Quem você elimina: Babu, Chai ou Milena?" [ref=e259] [cursor=pointer]':
+          - /url: https://gshow.globo.com/realities/bbb/bbb-26/formacao-do-paredao/noticia/quem-esta-no-8-paredao-do-bbb-26-babu-santana-chaiany-e-milena-formam-a-berlinda.ghtml
+          - figure [ref=e260]:
+            - img [ref=e261]
+          - 'heading "Quem você elimina: Babu, Chai ou Milena?" [level=2] [ref=e262]'
+        - link "Voto único" [ref=e263] [cursor=pointer]:
+          - /url: https://gshow.globo.com/realities/bbb/bbb-26/voto-unico/votacao/voto-unico-quem-voce-quer-eliminar-do-bbb-26-C85FfQd4CV.ghtml
+          - generic [ref=e265]: Voto único
+        - link "Voto da torcida" [ref=e266] [cursor=pointer]:
+          - /url: https://gshow.globo.com/realities/bbb/bbb-26/voto-da-torcida/votacao/voto-da-torcida-quem-voce-quer-eliminar-do-bbb-26-p7vLDjHdxk.ghtml
+          - generic [ref=e268]: Voto da torcida
+  - generic [ref=e278]:
+    - generic [ref=e280]:
+      - heading "Você sabia?" [level=2] [ref=e281]
+      - link "Veja mais notícias" [ref=e282] [cursor=pointer]:
+        - /url: https://g1.globo.com
+        - generic [ref=e283]: Veja mais notícias
+    - list [ref=e285]:
+      - listitem [ref=e286]:
+        - link "RJ oferecerá caneta emagrecedora pelo SUS a grupo específico" [ref=e289] [cursor=pointer]:
+          - /url: https://extra.globo.com/rio/jurema/noticia/2026/03/quem-vai-poder-receber-caneta-emagrecedora-pelo-sus-no-rio-entenda.ghtml
+          - img "RJ oferecerá caneta emagrecedora pelo SUS a grupo específico" [ref=e291]
+          - heading "RJ oferecerá caneta emagrecedora pelo SUS a grupo específico" [level=2] [ref=e293]
+      - listitem [ref=e294]:
+        - link "Como o rato vê o mundo? Pesquisa entra na mente deles e descobre" [ref=e297] [cursor=pointer]:
+          - /url: https://epocanegocios.globo.com/ciencia-e-saude/noticia/2026/03/cientistas-conseguem-enxergar-dentro-da-mente-de-ratos-e-ver-o-mundo-como-eles-veem.ghtml
+          - img "Como o rato vê o mundo? Pesquisa entra na mente deles e descobre" [ref=e299]
+          - heading "Como o rato vê o mundo? Pesquisa entra na mente deles e descobre" [level=2] [ref=e301]
+      - listitem [ref=e302]:
+        - link "O brutal caso real que inspirou 'Pânico' (e que é mais assustador)" [ref=e305] [cursor=pointer]:
+          - /url: https://gq.globo.com/artes-e-cultura/noticia/2026/03/o-brutal-caso-real-que-inspirou-panico-e-que-e-mais-assustador-que-o-filme.ghtml
+          - img "O brutal caso real que inspirou 'Pânico' (e que é mais assustador)" [ref=e307]
+          - heading "O brutal caso real que inspirou 'Pânico' (e que é mais assustador)" [level=2] [ref=e309]
+      - listitem [ref=e310]:
+        - link "Quem são os 20 bilionários com fortunas acima de US$ 100 bilhões" [ref=e313] [cursor=pointer]:
+          - /url: https://g1.globo.com/economia/noticia/2026/03/10/lista-forbes-superbilionarios.ghtml
+          - img "Quem são os 20 bilionários com fortunas acima de US$ 100 bilhões" [ref=e315]
+          - heading "Quem são os 20 bilionários com fortunas acima de US$ 100 bilhões" [level=2] [ref=e317]
+  - generic [ref=e319]:
+    - generic [ref=e320]:
+      - generic [ref=e321]:
+        - link "Título de nível 1, Colunas, Acompanhe sobre Jornalismo" [ref=e324] [cursor=pointer]:
+          - /url: https://g1.globo.com/?utm_source=globo.com&utm_medium=colunas&utm_campaign=jornalismo
+          - heading "Jornalismo" [level=2] [ref=e325]
+        - generic [ref=e326]:
+          - link "Janela despenca, e passageira morre ao ser lançada pra fora de ônibus em SP; VÍDEO Vale do Paraíba e Região g1" [ref=e330] [cursor=pointer]:
+            - /url: https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/03/10/video-mostra-momento-em-que-passageira-cai-de-onibus-em-movimento-no-litoral-de-sp-jovem-morreu.ghtml
+            - figure [ref=e331]:
+              - img [ref=e332]
+            - heading "Janela despenca, e passageira morre ao ser lançada pra fora de ônibus em SP; VÍDEO" [level=2] [ref=e333]
+            - generic [ref=e334]: Vale do Paraíba e Região g1
+          - separator [ref=e335]
+          - link "Morador é assaltado na porta de prédio em SP por falsos entregadores; veja a ação São Paulo g1" [ref=e339] [cursor=pointer]:
+            - /url: https://g1.globo.com/sp/sao-paulo/noticia/2026/03/10/video-motoqueiros-se-passam-por-entregadores-e-assaltam-morador-na-entrada-de-predio-na-vila-madalena-em-sp.ghtml
+            - figure [ref=e340]:
+              - img [ref=e341]
+            - heading "Morador é assaltado na porta de prédio em SP por falsos entregadores; veja a ação" [level=2] [ref=e342]
+            - generic [ref=e343]: São Paulo g1
+          - separator [ref=e344]
+          - link "Anvisa aprova medicamento inédito para diabetes tipo 1; entenda o que muda Saúde O Globo" [ref=e348] [cursor=pointer]:
+            - /url: https://oglobo.globo.com/saude/noticia/2026/03/10/anvisa-aprova-medicamento-inedito-para-diabetes-tipo-1.ghtml
+            - figure [ref=e349]:
+              - img [ref=e350]
+            - heading "Anvisa aprova medicamento inédito para diabetes tipo 1; entenda o que muda" [level=2] [ref=e351]
+            - generic [ref=e352]: Saúde O Globo
+          - separator [ref=e353]
+          - link "Filho recebeu foto da mãe e de pintor presos em porta-malas de carro em sequestro de 12h Região dos Lagos g1" [ref=e357] [cursor=pointer]:
+            - /url: https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/03/10/eles-iam-matar-iam-queimar-diz-filho-de-idosa-sequestrada-em-sao-pedro-da-aldeia.ghtml
+            - figure [ref=e358]:
+              - img [ref=e359]
+            - heading "Filho recebeu foto da mãe e de pintor presos em porta-malas de carro em sequestro de 12h" [level=2] [ref=e360]
+            - generic [ref=e361]: Região dos Lagos g1
+          - separator [ref=e362]
+          - link "Preço da cesta básica sobe em 14 capitais em fevereiro; carne encarece e café fica mais barato Agronegócios g1" [ref=e366] [cursor=pointer]:
+            - /url: https://g1.globo.com/economia/agronegocios/noticia/2026/03/10/preco-da-cesta-basica-sobe-em-14-capitais-em-fevereiro-carne-encarece-e-cafe-fica-mais-barato-na-maioria-das-cidades.ghtml
+            - figure [ref=e367]:
+              - img [ref=e368]
+            - heading "Preço da cesta básica sobe em 14 capitais em fevereiro; carne encarece e café fica mais barato" [level=2] [ref=e369]
+            - generic [ref=e370]: Agronegócios g1
+          - separator [ref=e371]
+          - link "Reação frequente à bebida alcoólica leva jovem a descobrir câncer nos EUA Page Not Found Extra" [ref=e375] [cursor=pointer]:
+            - /url: https://extra.globo.com/blogs/page-not-found/post/2026/03/reacao-frequente-a-bebida-alcoolica-leva-jovem-a-descobrir-cancer.ghtml
+            - figure [ref=e376]:
+              - img [ref=e377]
+            - heading "Reação frequente à bebida alcoólica leva jovem a descobrir câncer nos EUA" [level=2] [ref=e378]
+            - generic [ref=e379]: Page Not Found Extra
+          - separator [ref=e380]
+          - link "Mulher é presa após polícia encontrar cocaína em urina da filha de 3 anos no RS Rio Grande do Sul g1" [ref=e384] [cursor=pointer]:
+            - /url: https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/03/10/mulher-e-presa-policia-cocaina-maus-tratos-urina-filha-de-3-anos-no-rs.ghtml
+            - figure [ref=e385]:
+              - img [ref=e386]
+            - heading "Mulher é presa após polícia encontrar cocaína em urina da filha de 3 anos no RS" [level=2] [ref=e387]
+            - generic [ref=e388]: Rio Grande do Sul g1
+          - separator [ref=e389]
+          - link "Polícia inglesa usa drones e cães farejadores à procura de psicóloga brasileira desaparecida Ceará g1" [ref=e393] [cursor=pointer]:
+            - /url: https://g1.globo.com/ce/ceara/noticia/2026/03/10/policia-inglesa-usa-drones-e-caes-farejadores-a-procura-de-psicologa-brasileira-desaparecida.ghtml
+            - heading "Polícia inglesa usa drones e cães farejadores à procura de psicóloga brasileira desaparecida" [level=2] [ref=e394]
+            - generic [ref=e395]: Ceará g1
+          - separator [ref=e396]
+          - 'link "De airfryer a webcam: Guia de Compras te ajuda a escolher o produto ideal; compare g1" [ref=e400] [cursor=pointer]':
+            - /url: https://g1.globo.com/guia/guia-de-compras/
+            - figure [ref=e401]:
+              - img [ref=e403]
+            - 'heading "De airfryer a webcam: Guia de Compras te ajuda a escolher o produto ideal; compare" [level=2] [ref=e404]'
+            - generic [ref=e405]: g1
+          - separator [ref=e406]
+          - link "Como fica o tempo na sua cidade e pelo país; veja previsão pelo país g1" [ref=e410] [cursor=pointer]:
+            - /url: https://g1.globo.com/previsao-do-tempo/
+            - figure [ref=e411]:
+              - img [ref=e412]
+            - heading "Como fica o tempo na sua cidade e pelo país; veja previsão pelo país" [level=2] [ref=e413]
+            - generic [ref=e414]: g1
+      - generic [ref=e416]:
+        - link "Economia, fique por dentro da bolsa e cotações do dia. Atualizado em 10/03/2026 15h39. Oferecido por Valor Econômico" [ref=e418] [cursor=pointer]:
+          - /url: https://g1.globo.com/economia/?utm_source=globo.com&utm_medium=widget&utm_campaign=economia
+          - heading "Economia" [level=3] [ref=e419]
+        - generic [ref=e423]:
+          - generic [ref=e424]:
+            - link "Ibovespa teve crescimento e está em 183.987 pontos. Isso representa uma crescimento de 1.7 %." [ref=e426] [cursor=pointer]:
+              - /url: https://valor.globo.com/valor-data/?utm_source=globo.com&utm_medium=widget&utm_campaign=economia
+              - heading "Ibovespa" [level=4] [ref=e427]
+              - generic [ref=e428]: 183.987pts (+3066,03)
+              - generic [ref=e431]: 1.7%
+            - generic [ref=e432]:
+              - generic [ref=e433]:
+                - generic [ref=e434]: MOEDAS
+                - generic [ref=e435]: COMPRA
+              - generic [ref=e436]:
+                - 'status "Moedas: Dólar comercial opera em R$ 5,147 para compra." [ref=e437]':
+                  - generic [ref=e438]: Dólar Comercial
+                  - generic [ref=e439]: R$ 5,147
+                - 'status "Moedas: Euro comercial opera em R$ 5,986 para compra." [ref=e440]':
+                  - generic [ref=e441]: Euro Comercial
+                  - generic [ref=e442]: R$ 5,986
+          - generic [ref=e443]:
+            - generic [ref=e445]: atualizado 10/03/2026 15h39
+            - link "Ir para Valor Econômico" [ref=e447] [cursor=pointer]:
+              - /url: https://valorpro.globo.com/?utm_source=globo&utm_medium=banner_economia&utm_campaign=home_globocom
+              - generic [ref=e448]: "fonte:"
+              - img [ref=e449]
+      - link "Mais Jornalismo" [ref=e462] [cursor=pointer]:
+        - /url: https://g1.globo.com/?utm_source=globo.com&utm_medium=mais_jornalismo
+    - generic [ref=e463]:
+      - generic [ref=e464]:
+        - link "Título de nível 1, Colunas, Acompanhe sobre Esporte" [ref=e467] [cursor=pointer]:
+          - /url: https://ge.globo.com/?utm_source=globo.com&utm_medium=colunas&utm_campaign=esportes
+          - heading "Esporte" [level=2] [ref=e468]
+        - generic [ref=e469]:
+          - 'link "Celular, concentração no CT, ativação: as mudanças nos primeiros dias de Jardim Diogo Dantas O Globo" [ref=e473] [cursor=pointer]':
+            - /url: https://oglobo.globo.com/blogs/diogo-dantas/coluna/2026/03/celular-concentracao-ativacao-entenda-mudancas-impostas-por-leonardo-jardim-nos-primeiros-dias-de-flamengo.ghtml
+            - figure [ref=e474]:
+              - img [ref=e475]
+            - 'heading "Celular, concentração no CT, ativação: as mudanças nos primeiros dias de Jardim" [level=2] [ref=e476]'
+            - generic [ref=e477]: Diogo Dantas O Globo
+          - separator [ref=e478]
+          - link "Veja as tabelas dos principais campeonatos do Brasil e do exterior em um só lugar Interativos ge" [ref=e482] [cursor=pointer]:
+            - /url: https://interativos.ge.globo.com/tabelas/
+            - figure [ref=e483]:
+              - img [ref=e484]
+            - heading "Veja as tabelas dos principais campeonatos do Brasil e do exterior em um só lugar" [level=2] [ref=e485]
+            - generic [ref=e486]: Interativos ge
+          - separator [ref=e487]
+          - link "Como valorizar no Cartola, dicas campeãs, radar, novidades para Brasileiro e tudo sobre o game Cartola ge" [ref=e491] [cursor=pointer]:
+            - /url: https://ge.globo.com/cartola/
+            - figure [ref=e492]:
+              - img [ref=e493]
+            - heading "Como valorizar no Cartola, dicas campeãs, radar, novidades para Brasileiro e tudo sobre o game" [level=2] [ref=e494]
+            - generic [ref=e495]: Cartola ge
+          - separator [ref=e496]
+          - link "Fique ligado! Confira as partidas de hoje e dos próximos dias na agenda do 'ge' Agenda ge" [ref=e500] [cursor=pointer]:
+            - /url: https://ge.globo.com/agenda/#/
+            - figure [ref=e501]:
+              - img [ref=e502]
+            - heading "Fique ligado! Confira as partidas de hoje e dos próximos dias na agenda do 'ge'" [level=2] [ref=e503]
+            - generic [ref=e504]: Agenda ge
+          - separator [ref=e505]
+          - link "Corinthians aguarda Caixa para avançar na negociação por troca de naming rights da Arena Corinthians ge" [ref=e509] [cursor=pointer]:
+            - /url: https://ge.globo.com/futebol/times/corinthians/noticia/2026/03/10/corinthians-tem-reuniao-e-aguarda-caixa-para-avancar-em-negociacao-por-troca-de-naming-rights.ghtml
+            - figure [ref=e510]:
+              - img [ref=e511]
+            - heading "Corinthians aguarda Caixa para avançar na negociação por troca de naming rights da Arena" [level=2] [ref=e512]
+            - generic [ref=e513]: Corinthians ge
+          - separator [ref=e514]
+          - link "Presidente do Coritiba critica relação com SAF e aponta falhas em contrato de venda do clube Coritiba ge" [ref=e518] [cursor=pointer]:
+            - /url: https://ge.globo.com/pr/futebol/times/coritiba/noticia/2026/03/10/presidente-do-coritiba-critica-relacao-com-saf-e-aponta-falhas-em-contrato-de-venda-do-clube.ghtml
+            - figure [ref=e519]:
+              - img [ref=e520]
+            - heading "Presidente do Coritiba critica relação com SAF e aponta falhas em contrato de venda do clube" [level=2] [ref=e521]
+            - generic [ref=e522]: Coritiba ge
+          - separator [ref=e523]
+          - 'link "Thiago Silva detalha saída do Flu e diz entender a mágoa da torcida: ''Ia encerrar a carreira'' Fluminense ge" [ref=e527] [cursor=pointer]':
+            - /url: https://ge.globo.com/futebol/times/fluminense/noticia/2026/03/10/thiago-silva-detalha-saida-do-fluminense-ia-encerrar-a-minha-carreira.ghtml
+            - figure [ref=e528]:
+              - img [ref=e529]
+            - 'heading "Thiago Silva detalha saída do Flu e diz entender a mágoa da torcida: ''Ia encerrar a carreira''" [level=2] [ref=e530]'
+            - generic [ref=e531]: Fluminense ge
+          - separator [ref=e532]
+          - link "BYD estuda entrar na F1 e outras competições de automobilismo; FIA ainda não foi acionada Automobilismo Autoesporte" [ref=e536] [cursor=pointer]:
+            - /url: https://autoesporte.globo.com/automobilismo/noticia/2026/03/byd-estuda-entrar-f1.ghtml
+            - heading "BYD estuda entrar na F1 e outras competições de automobilismo; FIA ainda não foi acionada" [level=2] [ref=e537]
+            - generic [ref=e538]: Automobilismo Autoesporte
+          - separator [ref=e539]
+          - link "Jogador com maior salário da NFL cancela casamento após despedida de solteiro Esportes Monet" [ref=e543] [cursor=pointer]:
+            - /url: https://revistamonet.globo.com/esportes/noticia/2026/03/jogador-com-maior-salario-da-nfl-cancela-casamento-a-um-mes-da-cerimonia-depois-de-confusao-em-despedida-de-solteiro-decisao-dificil.ghtml
+            - figure [ref=e544]:
+              - img [ref=e545]
+            - heading "Jogador com maior salário da NFL cancela casamento após despedida de solteiro" [level=2] [ref=e546]
+            - generic [ref=e547]: Esportes Monet
+          - separator [ref=e548]
+          - 'link "João x Sinner pelas oitavas em Indian Wells: veja horário do duelo contra nº 2 do mundo hoje Tênis CBN" [ref=e552] [cursor=pointer]':
+            - /url: https://cbn.globo.com/esporte/noticia/2026/03/09/joao-fonseca-x-jannik-sinner-veja-o-horario-do-jogo-e-onde-assistir.ghtml
+            - figure [ref=e553]:
+              - img [ref=e554]
+            - 'heading "João x Sinner pelas oitavas em Indian Wells: veja horário do duelo contra nº 2 do mundo hoje" [level=2] [ref=e555]'
+            - generic [ref=e556]: Tênis CBN
+      - generic [ref=e558]:
+        - link "Título de nível 1, Agenda de Esportes, Acompanhe seu time preferido." [ref=e560] [cursor=pointer]:
+          - /url: https://ge.globo.com/agenda/?utm_source=globo.com&utm_medium=widget&utm_campaign=agenda#/pra-voce
+          - heading "Agenda" [level=3] [ref=e561]
+        - generic [ref=e566]:
+          - generic [ref=e567]: Jogos de hoje
+          - generic [ref=e569]:
+            - generic [ref=e570]:
+              - generic [ref=e571]:
+                - generic [ref=e573]: Champions League
+                - generic [ref=e574]:
+                  - generic [ref=e575]:
+                    - generic [ref=e576]: NEW
+                    - img "Escudo do Newcastle" [ref=e578]
+                  - generic [ref=e580]: 17:00
+                  - generic [ref=e581]:
+                    - img "Escudo do Barcelona" [ref=e583]
+                    - generic [ref=e584]: BAR
+              - separator [ref=e585]
+            - generic [ref=e586]:
+              - generic [ref=e587]:
+                - generic [ref=e589]: Taça Conmebol Libertadores
+                - generic [ref=e590]:
+                  - generic [ref=e591]:
+                    - generic [ref=e592]: BOT
+                    - img "Escudo do Botafogo" [ref=e594]
+                  - generic [ref=e596]: 21:30
+                  - generic [ref=e597]:
+                    - img "Escudo do Barcelona de Guayaquil" [ref=e599]
+                    - generic [ref=e600]: BSC
+              - separator [ref=e601]
+            - generic [ref=e603]:
+              - generic [ref=e605]: Campeonato Brasileiro
+              - generic [ref=e606]:
+                - generic [ref=e607]:
+                  - generic [ref=e608]: MIR
+                  - img "Escudo do Mirassol" [ref=e610]
+                - generic [ref=e612]: 21:30
+                - generic [ref=e613]:
+                  - img "Escudo do Santos" [ref=e615]
+                  - generic [ref=e616]: SAN
+          - link "Mais jogos arrow" [ref=e617] [cursor=pointer]:
+            - /url: https://ge.globo.com/agenda/?utm_source=globo.com&utm_medium=widget&utm_campaign=agenda
+            - generic [ref=e618]: Mais jogos
+            - img "arrow" [ref=e620]
+      - link "Mais Esportes" [ref=e622] [cursor=pointer]:
+        - /url: https://globoesporte.globo.com/?utm_source=globo.com&utm_medium=mais_esporte
+    - generic [ref=e623]:
+      - generic [ref=e624]:
+        - link "Título de nível 1, Colunas, Acompanhe sobre Entretenimento" [ref=e627] [cursor=pointer]:
+          - /url: https://gshow.globo.com/?utm_source=globo.com&utm_medium=colunas&utm_campaign=entretenimento
+          - heading "Entretenimento" [level=2] [ref=e628]
+        - generic [ref=e629]:
+          - link "'Não tem briga, não tem climão', diz Sophie Charlotte sobre o fim do namoro com Xamã Capas Quem" [ref=e633] [cursor=pointer]:
+            - /url: https://revistaquem.globo.com/capas/noticia/2026/03/sophie-charlotte-olho-para-tras-e-penso-que-o-sonho-deu-certo.ghtml
+            - figure [ref=e634]:
+              - img [ref=e635]
+            - heading "'Não tem briga, não tem climão', diz Sophie Charlotte sobre o fim do namoro com Xamã" [level=2] [ref=e636]
+            - generic [ref=e637]: Capas Quem
+          - separator [ref=e638]
+          - link "Karoline Lima é flagrada com o ex, zagueiro do Fla, em restaurante no Rio Amor e Sexo Quem" [ref=e642] [cursor=pointer]:
+            - /url: https://revistaquem.globo.com/noticias/amor-e-sexo/noticia/2026/03/karoline-lima-e-flagrada-com-o-ex-leo-pereira-em-restaurante-no-rio.ghtml
+            - figure [ref=e643]:
+              - img [ref=e644]
+            - heading "Karoline Lima é flagrada com o ex, zagueiro do Fla, em restaurante no Rio" [level=2] [ref=e645]
+            - generic [ref=e646]: Amor e Sexo Quem
+          - separator [ref=e647]
+          - link "'Estou com 53 anos e me sinto muito melhor do que quando eu tinha 30', afirma Rita Guedes Sua Idade Vogue" [ref=e651] [cursor=pointer]:
+            - /url: https://vogue.globo.com/sua-idade/noticia/2026/03/rita-guedes-reflete-sobre-amadurecimento-ha-um-ganho-enorme-em-envelhecer.ghtml
+            - figure [ref=e652]:
+              - img [ref=e653]
+            - heading "'Estou com 53 anos e me sinto muito melhor do que quando eu tinha 30', afirma Rita Guedes" [level=2] [ref=e654]
+            - generic [ref=e655]: Sua Idade Vogue
+          - separator [ref=e656]
+          - 'link "Vini Jr. abre álbum de fotos raras com Virginia e se declara: ''Sempre juntos'' Famosos gshow" [ref=e660] [cursor=pointer]':
+            - /url: https://gshow.globo.com/cultura-pop/famosos/noticia/vini-jr-abre-album-de-fotos-raras-com-virginia-e-se-declara-sempre-juntos.ghtml
+            - figure [ref=e661]:
+              - img [ref=e662]
+            - 'heading "Vini Jr. abre álbum de fotos raras com Virginia e se declara: ''Sempre juntos''" [level=2] [ref=e663]'
+            - generic [ref=e664]: Famosos gshow
+          - separator [ref=e665]
+          - 'link "Príncipe George, aos 12, deve mudar de escola: veja opções de tradição e valor de mensalidades Ela O Globo" [ref=e669] [cursor=pointer]':
+            - /url: https://oglobo.globo.com/ela/noticia/2026/03/10/principe-george-deve-mudar-de-escola-veja-as-opcoes-de-tradicao-familiar-e-o-valor-das-mensalidades.ghtml
+            - figure [ref=e670]:
+              - img [ref=e671]
+            - 'heading "Príncipe George, aos 12, deve mudar de escola: veja opções de tradição e valor de mensalidades" [level=2] [ref=e672]'
+            - generic [ref=e673]: Ela O Globo
+          - separator [ref=e674]
+          - 'link "Fernanda Vasconcellos fala de dedicação exclusiva ao filho: ''Faço questão. Me faz feliz'' Famosos Crescer" [ref=e678] [cursor=pointer]':
+            - /url: https://revistacrescer.globo.com/maes-e-pais/famosos/noticia/2026/03/fernanda-vasconcellos-capa-da-crescer-fala-de-dedicacao-exclusiva-ao-filho-faco-questao-me-faz-feliz.ghtml
+            - figure [ref=e679]:
+              - img [ref=e680]
+            - 'heading "Fernanda Vasconcellos fala de dedicação exclusiva ao filho: ''Faço questão. Me faz feliz''" [level=2] [ref=e681]'
+            - generic [ref=e682]: Famosos Crescer
+          - separator [ref=e683]
+          - link "'Avental' chama atenção em look deferentão de Isabelle Drummond na Semana de Moda Moda Vogue" [ref=e687] [cursor=pointer]:
+            - /url: https://vogue.globo.com/moda/noticia/2026/03/isabelle-drummond-elege-producao-retro-para-desfile-da-miu-miu-em-paris.ghtml
+            - figure [ref=e688]:
+              - img [ref=e689]
+            - heading "'Avental' chama atenção em look deferentão de Isabelle Drummond na Semana de Moda" [level=2] [ref=e690]
+            - generic [ref=e691]: Moda Vogue
+          - separator [ref=e692]
+          - link "Zendaya tenta esconder a mão em desfile, mas fotos flagram aliança após suposto casamento Moda Glamour" [ref=e696] [cursor=pointer]:
+            - /url: https://glamour.globo.com/moda/noticia/2026/03/zendaya-estreia-novo-visual-em-desfile-em-paris-apos-rumores-de-casamento.ghtml
+            - heading "Zendaya tenta esconder a mão em desfile, mas fotos flagram aliança após suposto casamento" [level=2] [ref=e697]
+            - generic [ref=e698]: Moda Glamour
+          - separator [ref=e699]
+          - link "Além de Dias Perfeitos, uma lista de séries de suspense no Globoplay para maratonar Globoplay gshow" [ref=e703] [cursor=pointer]:
+            - /url: https://gshow.globo.com/globoplay/noticia/alem-de-dias-perfeitos-uma-lista-de-series-de-suspense-no-globoplay-para-maratonar.ghtml
+            - figure [ref=e704]:
+              - img [ref=e705]
+            - heading "Além de Dias Perfeitos, uma lista de séries de suspense no Globoplay para maratonar" [level=2] [ref=e706]
+            - generic [ref=e707]: Globoplay gshow
+          - separator [ref=e708]
+          - link "'Que História É Essa, Porchat?' reestreia com episódios especiais pelo Brasil Que História é Essa, Porchat? gshow" [ref=e712] [cursor=pointer]:
+            - /url: https://gshow.globo.com/gnt/que-historia-e-essa-porchat/noticia/que-historia-e-essa-porchat-esta-de-volta-com-episodios-especiais-pelo-brasil.ghtml
+            - figure [ref=e713]:
+              - img [ref=e714]
+            - heading "'Que História É Essa, Porchat?' reestreia com episódios especiais pelo Brasil" [level=2] [ref=e715]
+            - generic [ref=e716]: Que História é Essa, Porchat? gshow
+      - generic [ref=e718]:
+        - generic [ref=e719]:
+          - link "Título de nível 1, Horóscopo, Acompanhe informações do seu signo." [ref=e720] [cursor=pointer]:
+            - /url: https://horoscopo.gshow.globo.com/?utm_source=globo.com&utm_medium=widget&utm_campaign=horoscopo
+            - heading "Horóscopo" [level=3] [ref=e721]
+          - img [ref=e723]
+        - generic [ref=e731]:
+          - generic [ref=e732]:
+            - img "Ícone Áries" [ref=e734]
+            - generic [ref=e735]:
+              - generic [ref=e736]: Áries
+              - generic [ref=e737]: 21/03 a 19/04
+              - generic [ref=e738]: Para o signo de Áries, o clima desta terça favorece repensar o que realmente importa. É um momento de crescimento interno, mas é preciso ter atenção com as pressões da rotina. O dia pede que você aja com verdade em tudo o que faz, mostrando que as suas intenções são reais e sólidas.
+          - generic [ref=e739]:
+            - button "libra" [ref=e740] [cursor=pointer]:
+              - generic [ref=e741]:
+                - img "Ícone Libra"
+            - button "escorpiao" [ref=e742] [cursor=pointer]:
+              - generic [ref=e743]:
+                - img "Ícone Escorpião"
+            - button "sagitario" [ref=e744] [cursor=pointer]:
+              - generic [ref=e745]:
+                - img "Ícone Sagitário"
+            - button "capricornio" [ref=e746] [cursor=pointer]:
+              - generic [ref=e747]:
+                - img "Ícone Capricórnio"
+            - button "aquario" [ref=e748] [cursor=pointer]:
+              - generic [ref=e749]:
+                - img "Ícone Aquário"
+            - button "peixes" [ref=e750] [cursor=pointer]:
+              - generic [ref=e751]:
+                - img "Ícone Peixes"
+            - button "aries" [ref=e752] [cursor=pointer]:
+              - generic [ref=e753]:
+                - img "Ícone Áries"
+            - button "touro" [ref=e754] [cursor=pointer]:
+              - generic [ref=e755]:
+                - img "Ícone Touro"
+            - button "gemeos" [ref=e756] [cursor=pointer]:
+              - generic [ref=e757]:
+                - img "Ícone Gêmeos"
+            - button "cancer" [ref=e758] [cursor=pointer]:
+              - generic [ref=e759]:
+                - img "Ícone Câncer"
+            - button "leao" [ref=e760] [cursor=pointer]:
+              - generic [ref=e761]:
+                - img "Ícone Leão"
+            - button "virgem" [ref=e762] [cursor=pointer]:
+              - generic [ref=e763]:
+                - img "Ícone Virgem"
+          - link "Previsão completa" [ref=e764] [cursor=pointer]:
+            - /url: https://horoscopo.gshow.globo.com/signos/aries?utm_source=globo.com&utm_medium=widget&utm_campaign=horoscopo
+            - generic [ref=e765]: Previsão completa
+            - img [ref=e767]
+      - link "Mais Entretenimento" [ref=e770] [cursor=pointer]:
+        - /url: https://gshow.globo.com/?utm_source=globo.com&utm_medium=mais_entretenimento
+  - generic [ref=e774]:
+    - heading "Vídeos em alta hoje" [level=2] [ref=e776]
+    - heading [level=2] [ref=e780]
+  - generic [ref=e785]:
+    - generic [ref=e787]:
+      - link "Hoje na TV Globo" [ref=e789] [cursor=pointer]:
+        - /url: https://redeglobo.globo.com/sao-paulo/programacao/?utm_source=gcom&utm_medium=home-grade-de-programacao&utm_campaign=grade-completa/
+      - generic [ref=e790]:
+        - generic [ref=e791]:
+          - img [ref=e793]
+          - generic [ref=e796]: horário de Brasília
+        - link "Confira a programação completa" [ref=e799] [cursor=pointer]:
+          - /url: https://redeglobo.globo.com/sao-paulo/programacao/?utm_source=gcom&utm_medium=home-grade-de-programacao&utm_campaign=grade-completa/
+          - generic [ref=e800]: Confira a programação completa
+    - generic [ref=e805]:
+      - link "Filme AGORA NO GLOBOPLAY Sessão da Tarde - 90 Minutos No Paraíso Hoje, 11:25 AM Sessão da Tarde - 90 Minutos No Paraíso" [ref=e809] [cursor=pointer]:
+        - /url: "https://globoplay.globo.com/tv-globo/ao-vivo/6120663/?origemId=93616&utm_source=gcom&utm_medium=home-grade-de-programacao&utm_campaign=conteudo-ao-vivo "
+        - generic [ref=e810]:
+          - generic [ref=e811]: Filme
+          - generic [ref=e815]: AGORA NO GLOBOPLAY
+        - generic [ref=e816]:
+          - img "Sessão da Tarde - 90 Minutos No Paraíso" [ref=e818]
+          - generic [ref=e819]:
+            - generic [ref=e820]: Hoje, 11:25 AM
+            - heading "Sessão da Tarde - 90 Minutos No Paraíso" [level=3] [ref=e821]
+      - link "Jornalismo Boletim SP2 Hoje, 01:05 PM Boletim SP2" [ref=e825] [cursor=pointer]:
+        - /url: https://redeglobo.globo.com/sao-paulo/programacao/?utm_source=gcom&utm_medium=home-grade-de-programacao&utm_campaign=proximos-programas
+        - generic [ref=e827]: Jornalismo
+        - generic [ref=e828]:
+          - img "Boletim SP2" [ref=e830]
+          - generic [ref=e831]:
+            - generic [ref=e832]: Hoje, 01:05 PM
+            - heading "Boletim SP2" [level=3] [ref=e833]
+      - link "Novela Vale a Pena Ver de Novo - Rainha da Sucata Hoje, 01:15 PM Vale a Pena Ver de Novo - Rainha da Sucata" [ref=e837] [cursor=pointer]:
+        - /url: https://redeglobo.globo.com/sao-paulo/programacao/?utm_source=gcom&utm_medium=home-grade-de-programacao&utm_campaign=proximos-programas
+        - generic [ref=e839]: Novela
+        - generic [ref=e840]:
+          - img "Vale a Pena Ver de Novo - Rainha da Sucata" [ref=e842]
+          - generic [ref=e843]:
+            - generic [ref=e844]: Hoje, 01:15 PM
+            - heading "Vale a Pena Ver de Novo - Rainha da Sucata" [level=3] [ref=e845]
+  - generic [ref=e848]:
+    - heading "Logo do globoplay" [level=2] [ref=e851]:
+      - link "Logo do globoplay" [ref=e852] [cursor=pointer]:
+        - /url: https://globoplay.globo.com/?origemId=2959&utm_source=gcom&utm_medium=home&utm_campaign=gcom-pirulito2&utm_term=logo
+        - img "Logo do globoplay" [ref=e854]
+    - generic [ref=e858]:
+      - generic [ref=e860]:
+        - heading [level=2] [ref=e861]: Tá todo mundo assistindo
+        - generic [ref=e862]:
+          - generic:
+            - img
+          - img [ref=e864] [cursor=pointer]
+          - 'link "Tá todo mundo assistindo: Carrossel horizontal de 4 itens" [ref=e865] [cursor=pointer]':
+            - /url: https://globoplay.globo.com/multishow/ao-vivo/7339131/?origemId=2802&utm_source=gcom&utm_medium=home-franja-vitrine&utm_campaign=conteudo-aovivo&utm_term=multishow
+      - generic [ref=e875]:
+        - generic [ref=e876]:
+          - heading [level=2] [ref=e877]: Todos os produtos Globo e parceiros para você!
+          - generic [ref=e878]:
+            - generic:
+              - img
+            - img [ref=e880] [cursor=pointer]
+            - 'link "Todos os produtos Globo e parceiros para você!: Carrossel horizontal de 5 itens" [ref=e881] [cursor=pointer]':
+              - /url: https://vitrine.globo.com/assine/globoplay/?origemId=2563&utm_source=gcom&utm_medium=home-franja-vitrine
+        - generic [ref=e882]:
+          - generic [ref=e883]: slide 1 to 3 of 5
+          - list [ref=e886]:
+            - listitem [ref=e887]:
+              - link [ref=e889] [cursor=pointer]:
+                - figure [ref=e890]
+                - generic [ref=e894]:
+                  - generic [ref=e895]:
+                    - generic [ref=e896]: No plano Premium
+                    - heading [level=1] [ref=e897]:
+                      - generic [ref=e898]:
+                        - generic [ref=e899]: 12x
+                        - text: R$ 22,90
+                  - link [ref=e900]:
+                    - /url: https://vitrine.globo.com/assine/globoplay/?origemId=2563&utm_source=gcom&utm_medium=home-franja-vitrine
+                    - text: Saiba mais
+            - listitem [ref=e901]:
+              - link [ref=e903] [cursor=pointer]:
+                - figure [ref=e904]
+                - generic [ref=e908]:
+                  - generic [ref=e909]:
+                    - generic [ref=e910]: Planos a partir de
+                    - heading [level=1] [ref=e911]:
+                      - generic [ref=e912]:
+                        - generic [ref=e913]: 12x
+                        - text: R$ 19,90
+                  - link [ref=e914]:
+                    - /url: https://vitrine.globo.com/assine/telecine/?origemId=2563&utm_source=gcom&utm_medium=home-franja-vitrine
+                    - text: Saiba mais
+            - listitem [ref=e915]:
+              - link [ref=e917] [cursor=pointer]:
+                - figure [ref=e918]
+                - generic [ref=e922]:
+                  - generic [ref=e923]:
+                    - generic [ref=e924]: Planos a partir de
+                    - heading [level=1] [ref=e925]:
+                      - generic [ref=e926]:
+                        - generic [ref=e927]: 12x
+                        - text: R$ 29,90
+                  - link [ref=e928]:
+                    - /url: https://vitrine.globo.com/assine/premiere/?origemId=2563&utm_source=gcom&utm_medium=home-franja-vitrine
+                    - text: Saiba mais
+            - listitem [ref=e929]:
+              - link [ref=e931] [cursor=pointer]:
+                - figure [ref=e932]
+                - generic [ref=e936]:
+                  - generic [ref=e937]:
+                    - generic [ref=e938]: Planos a partir de
+                    - heading [level=1] [ref=e939]:
+                      - generic [ref=e940]:
+                        - generic [ref=e941]: 12x
+                        - text: R$ 19,90
+                  - link [ref=e942]:
+                    - /url: https://vitrine.globo.com/assine/combate/?origemId=2563&utm_source=gcom&utm_medium=home-franja-vitrine
+                    - text: Saiba mais
+            - listitem [ref=e943]:
+              - link [ref=e945] [cursor=pointer]:
+                - figure [ref=e946]
+                - generic [ref=e950]:
+                  - generic [ref=e951]:
+                    - generic [ref=e952]: Anual por
+                    - heading [level=1] [ref=e953]:
+                      - generic [ref=e954]:
+                        - generic [ref=e955]: 12x
+                        - text: R$ 4,99
+                  - link [ref=e956]:
+                    - /url: https://vitrine.globo.com/assine/cartola/?origemId=2563&utm_source=gcom&utm_medium=home-franja-vitrine
+                    - text: Saiba mais
+  - generic [ref=e958]:
+    - generic [ref=e961]:
+      - heading "Vai cozinhar hoje?" [level=2] [ref=e963]
+      - link "Saúde no prato Nutricionista orienta como montar uma alimentação para emagrecer e desinchar Alimentação e Saúde Receitas" [ref=e966] [cursor=pointer]:
+        - /url: https://receitas.globo.com/blog/alimentacao-e-saude/jantar-para-emagrecer-e-desinchar-apos-as-festas-de-fim-de-ano.ghtml
+        - figure [ref=e967]:
+          - img [ref=e969]
+        - generic [ref=e970]: Saúde no prato
+        - heading "Nutricionista orienta como montar uma alimentação para emagrecer e desinchar" [level=2] [ref=e971]
+        - generic [ref=e972]: Alimentação e Saúde Receitas
+      - link "Acompanhamento leve Salada de macarrão crocante vira febre nas redes; aprenda a fazer Tendências da Internet Receitas" [ref=e975] [cursor=pointer]:
+        - /url: https://receitas.globo.com/blog/tendencia-da-internet/salada-de-macarrao-crocante-vira-febre-nas-redes-aprenda-a-fazer.ghtml
+        - figure [ref=e976]:
+          - img [ref=e977]
+        - generic [ref=e978]: Acompanhamento leve
+        - heading "Salada de macarrão crocante vira febre nas redes; aprenda a fazer" [level=2] [ref=e979]
+        - generic [ref=e980]: Tendências da Internet Receitas
+      - link "Sucesso sempre Bolo de cenoura de liquidificador com calda de chocolate Doces Receitas" [ref=e983] [cursor=pointer]:
+        - /url: https://receitas.globo.com/ana-maria-braga/doces/bolo-de-cenoura-de-liquidificador-com-calda-de-chocolate.ghtml
+        - figure [ref=e984]:
+          - img [ref=e985]
+        - generic [ref=e986]: Sucesso sempre
+        - heading "Bolo de cenoura de liquidificador com calda de chocolate" [level=2] [ref=e987]
+        - generic [ref=e988]: Doces Receitas
+      - link "Saborosas 6 sobremesas veganas com morango para fazer em casa Gastronomia Casa e Jardim" [ref=e991] [cursor=pointer]:
+        - /url: https://revistacasaejardim.globo.com/gastronomia/noticia/2026/01/6-sobremesas-veganas-com-morango-para-fazer-em-casa.ghtml
+        - figure [ref=e992]:
+          - img [ref=e993]
+        - generic [ref=e994]: Saborosas
+        - heading "6 sobremesas veganas com morango para fazer em casa" [level=2] [ref=e995]
+        - generic [ref=e996]: Gastronomia Casa e Jardim
+    - generic [ref=e997]:
+      - heading "Comportamento" [level=2] [ref=e999]
+      - 'link "Exaustão Síndrome da Mulher Maravilha: culpa crônica leva mulheres a burnout emocional silencioso Ela O Globo" [ref=e1005] [cursor=pointer]':
+        - /url: https://oglobo.globo.com/ela/noticia/2026/03/10/sindrome-da-mulher-maravilha-entenda-por-que-tentar-dar-conta-de-tudo-pode-levar-ao-esgotamento.ghtml
+        - figure [ref=e1006]:
+          - img [ref=e1007]
+        - generic [ref=e1008]: Exaustão
+        - 'heading "Síndrome da Mulher Maravilha: culpa crônica leva mulheres a burnout emocional silencioso" [level=2] [ref=e1009]'
+        - generic [ref=e1010]: Ela O Globo
+      - separator [ref=e1011]
+      - link "Modelos grisalhas e atrizes veteranas Mulheres 50+ ganham espaço na moda, mas especialistas alertam para pressão estética Moda e beleza g1" [ref=e1014] [cursor=pointer]:
+        - /url: https://g1.globo.com/pop-arte/moda-e-beleza/noticia/2026/03/10/mulheres-50-ganham-espaco-na-moda-mas-especialistas-alertam-para-pressao-estetica.ghtml
+        - figure [ref=e1015]:
+          - img [ref=e1016]
+        - generic [ref=e1017]: Modelos grisalhas e atrizes veteranas
+        - heading "Mulheres 50+ ganham espaço na moda, mas especialistas alertam para pressão estética" [level=2] [ref=e1018]
+        - generic [ref=e1019]: Moda e beleza g1
+      - separator [ref=e1020]
+      - link "'Quase impossível' Influencer topa desafio da esposa e sofre para cumprir tarefas do dia com unhas postiças Page Not Found Extra" [ref=e1023] [cursor=pointer]:
+        - /url: https://extra.globo.com/blogs/page-not-found/post/2026/03/influencer-topa-desafio-da-esposa-e-sofre-para-cumprir-tarefas-do-dia-com-unhas-posticas-quase-impossivel.ghtml
+        - figure [ref=e1024]:
+          - img [ref=e1026]
+        - generic [ref=e1027]: "'Quase impossível'"
+        - heading "Influencer topa desafio da esposa e sofre para cumprir tarefas do dia com unhas postiças" [level=2] [ref=e1028]
+        - generic [ref=e1029]: Page Not Found Extra
+    - generic [ref=e1030]:
+      - heading "Ler é uma viagem" [level=2] [ref=e1032]
+      - link "Escritor peruano Morre Alfredo Bryce Echenique, um dos mais importantes da narrativa hispano-americana Cultura O Globo" [ref=e1038] [cursor=pointer]:
+        - /url: https://oglobo.globo.com/cultura/noticia/2026/03/10/escritor-peruano-alfredo-bryce-echenique-um-dos-mais-importantes-da-narrativa-hispano-americana-morre-aos-87-anos.ghtml
+        - figure [ref=e1039]:
+          - img [ref=e1040]
+        - generic [ref=e1041]: Escritor peruano
+        - heading "Morre Alfredo Bryce Echenique, um dos mais importantes da narrativa hispano-americana" [level=2] [ref=e1042]
+        - generic [ref=e1043]: Cultura O Globo
+      - separator [ref=e1044]
+      - link "A luta continua Escritores lançam livro em branco em protesto contra uso de suas criações pela IA Inteligência Artificial Época Negócios" [ref=e1047] [cursor=pointer]:
+        - /url: https://epocanegocios.globo.com/inteligencia-artificial/noticia/2026/03/escritores-famosos-lancam-livro-em-branco-em-protesto-contra-uso-da-ia.ghtml
+        - figure [ref=e1048]:
+          - img [ref=e1050]
+        - generic [ref=e1051]: A luta continua
+        - heading "Escritores lançam livro em branco em protesto contra uso de suas criações pela IA" [level=2] [ref=e1052]
+        - generic [ref=e1053]: Inteligência Artificial Época Negócios
+      - separator [ref=e1054]
+      - 'link "Quer mudar? A escritora que quer te ajudar a viver melhor: ''Ações diárias e repetidas'' Cultura Marie Claire" [ref=e1057] [cursor=pointer]':
+        - /url: https://revistamarieclaire.globo.com/cultura/noticia/2026/03/mel-robbins-a-escritora-que-quer-te-ajudar-a-viver-melhor-a-mudanca-real-vem-das-acoes-diarias-e-repetidas.ghtml
+        - figure [ref=e1058]:
+          - img [ref=e1059]
+        - generic [ref=e1060]: Quer mudar?
+        - 'heading "A escritora que quer te ajudar a viver melhor: ''Ações diárias e repetidas''" [level=2] [ref=e1061]'
+        - generic [ref=e1062]: Cultura Marie Claire
+    - generic [ref=e1066]:
+      - heading "gshow" [level=2] [ref=e1068]
+      - link "Êta Mundo Melhor! Vida de Ernesto fica nas mãos de Estela na reta final da trama Vem por aí Novelas" [ref=e1074] [cursor=pointer]:
+        - /url: https://gshow.globo.com/novelas/eta-mundo-melhor/vem-por-ai/noticia/eta-mundo-melhor-vida-de-ernesto-fica-nas-maos-de-estela.ghtml
+        - figure [ref=e1075]:
+          - img [ref=e1076]
+        - generic [ref=e1077]: Êta Mundo Melhor!
+        - heading "Vida de Ernesto fica nas mãos de Estela na reta final da trama" [level=2] [ref=e1078]
+        - generic [ref=e1079]: Vem por aí Novelas
+      - link "Três Graças Lucélia confessa crime, é expulsa por Bagdá e firma pacto com Vandílson Vem por aí Novelas" [ref=e1082] [cursor=pointer]:
+        - /url: https://gshow.globo.com/novelas/tres-gracas/vem-por-ai/noticia/tres-gracas-lucelia-confessa-crime-e-expulsa-por-bagda-e-firma-pacto-com-vandilson.ghtml
+        - figure [ref=e1083]:
+          - img [ref=e1084]
+        - generic [ref=e1085]: Três Graças
+        - heading "Lucélia confessa crime, é expulsa por Bagdá e firma pacto com Vandílson" [level=2] [ref=e1086]
+        - generic [ref=e1087]: Vem por aí Novelas
+      - link "Coração Acelerado Naiane descobre segredo do passado de Agrado e Leandro Vem por aí Novelas" [ref=e1090] [cursor=pointer]:
+        - /url: https://gshow.globo.com/novelas/coracao-acelerado/vem-por-ai/noticia/coracao-acelerado-naiane-descobre-segredo-do-passado-de-agrado-e-leandro.ghtml
+        - figure [ref=e1091]:
+          - img [ref=e1092]
+        - generic [ref=e1093]: Coração Acelerado
+        - heading "Naiane descobre segredo do passado de Agrado e Leandro" [level=2] [ref=e1094]
+        - generic [ref=e1095]: Vem por aí Novelas
+      - link "Uma babá milionária Novelinha reúne Fernanda Paes Leme, Laryssa Ayres e Raphael Vianna Globoplay" [ref=e1098] [cursor=pointer]:
+        - /url: https://gshow.globo.com/globoplay/noticia/uma-baba-milionaria-veja-fernanda-paes-leme-laryssa-ayres-e-raphael-vianna-no-primeiro-poster-da-novelinha.ghtml
+        - figure [ref=e1099]:
+          - img [ref=e1100]
+        - generic [ref=e1101]: Uma babá milionária
+        - heading "Novelinha reúne Fernanda Paes Leme, Laryssa Ayres e Raphael Vianna" [level=2] [ref=e1102]
+        - generic [ref=e1103]: Globoplay
+    - generic [ref=e1105]:
+      - heading "Tecnologia & games" [level=2] [ref=e1107]
+      - link "Semana do Consumidor Confira 7 informações para checar antes de comprar eletrodomésticos Semana do Consumidor TechTudo" [ref=e1110] [cursor=pointer]:
+        - /url: https://www.techtudo.com.br/guia/2026/03/semana-do-consumidor-7-coisas-para-checar-antes-de-comprar-eletrodomesticos-sc26-lb.ghtml
+        - figure [ref=e1111]:
+          - img [ref=e1112]
+        - generic [ref=e1113]: Semana do Consumidor
+        - heading "Confira 7 informações para checar antes de comprar eletrodomésticos" [level=2] [ref=e1114]
+        - generic [ref=e1115]: Semana do Consumidor TechTudo
+      - 'link "O básico App Rede Mulher: conheça aplicativos que ajudam na proteção de mulheres Segurança TechTudo" [ref=e1118] [cursor=pointer]':
+        - /url: https://www.techtudo.com.br/listas/2026/03/app-rede-mulher-conheca-aplicativos-que-ajudam-na-protecao-de-mulheres-edapps.ghtml
+        - figure [ref=e1119]:
+          - img [ref=e1120]
+        - generic [ref=e1121]: O básico
+        - 'heading "App Rede Mulher: conheça aplicativos que ajudam na proteção de mulheres" [level=2] [ref=e1122]'
+        - generic [ref=e1123]: Segurança TechTudo
+      - link "Bilionários da tecnologia Quem são os novos bilionários de IA na lista da Forbes Inteligência Artificial Época Negócios" [ref=e1126] [cursor=pointer]:
+        - /url: https://epocanegocios.globo.com/inteligencia-artificial/noticia/2026/03/bilionarios-da-ia-disparam-e-ja-somam-dezenas-confira-quem-sao.ghtml
+        - figure [ref=e1127]:
+          - img [ref=e1128]
+        - generic [ref=e1129]: Bilionários da tecnologia
+        - heading "Quem são os novos bilionários de IA na lista da Forbes" [level=2] [ref=e1130]
+        - generic [ref=e1131]: Inteligência Artificial Época Negócios
+      - link "PlayStation Abuso de preços? Sony é processada por valores de jogos no Reino Unido Tecnologia O Globo" [ref=e1134] [cursor=pointer]:
+        - /url: https://oglobo.globo.com/economia/tecnologia/noticia/2026/03/10/sony-enfrenta-a-justica-britanica-por-suposto-abuso-em-precos-de-videogames-do-playstation.ghtml
+        - figure [ref=e1135]:
+          - img [ref=e1136]
+        - generic [ref=e1137]: PlayStation
+        - heading "Abuso de preços? Sony é processada por valores de jogos no Reino Unido" [level=2] [ref=e1138]
+        - generic [ref=e1139]: Tecnologia O Globo
+    - generic [ref=e1140]:
+      - heading "Histórias impressionantes" [level=2] [ref=e1142]
+      - link "Na Namíbia Mulher morre pisoteada por elefante em desafio para puxar rabo do animal Época O Globo" [ref=e1145] [cursor=pointer]:
+        - /url: https://oglobo.globo.com/mundo/epoca/noticia/2026/03/10/mulher-morre-pisoteada-por-elefante-apos-desafio-para-puxar-rabo-do-animal-na-namibia-video.ghtml
+        - figure [ref=e1146]:
+          - img [ref=e1147]
+        - generic [ref=e1148]: Na Namíbia
+        - heading "Mulher morre pisoteada por elefante em desafio para puxar rabo do animal" [level=2] [ref=e1149]
+        - generic [ref=e1150]: Época O Globo
+      - link "'Elas precisam da mãe' Família pede ajuda para australiana que luta pela vida após acidente em Bali Época O Globo" [ref=e1153] [cursor=pointer]:
+        - /url: https://oglobo.globo.com/mundo/epoca/noticia/2026/03/10/elas-precisam-da-mae-em-casa-familia-pede-ajuda-para-trazer-de-volta-australiana-que-luta-pela-vida-apos-acidente-em-bali.ghtml
+        - figure [ref=e1154]:
+          - img [ref=e1156]
+        - generic [ref=e1157]: "'Elas precisam da mãe'"
+        - heading "Família pede ajuda para australiana que luta pela vida após acidente em Bali" [level=2] [ref=e1158]
+        - generic [ref=e1159]: Época O Globo
+      - link "Sem lesão escura na pele Dor nas costas faz homem descobrir câncer metastático agressivo e raro Saúde g1" [ref=e1162] [cursor=pointer]:
+        - /url: http://g1.globo.com/saude/noticia/2026/03/10/melanoma-sem-cor-dor-nas-costas-leva-educador-fisico-a-descobrir-cancer-metastatico-agressivo-e-raro.ghtml
+        - figure [ref=e1163]:
+          - img [ref=e1164]
+        - generic [ref=e1165]: Sem lesão escura na pele
+        - heading "Dor nas costas faz homem descobrir câncer metastático agressivo e raro" [level=2] [ref=e1166]
+        - generic [ref=e1167]: Saúde g1
+      - link "Na Paraíba Irmãs engravidam juntas 6 vezes e em todas os bebês nascem do mesmo sexo Histórias Crescer" [ref=e1170] [cursor=pointer]:
+        - /url: https://revistacrescer.globo.com/maes-e-pais/historias/noticia/2026/03/irmas-engravidam-juntas-6-vezes-e-em-todas-os-bebes-nascem-do-mesmo-sexo.ghtml
+        - figure [ref=e1171]:
+          - img [ref=e1172]
+        - generic [ref=e1173]: Na Paraíba
+        - heading "Irmãs engravidam juntas 6 vezes e em todas os bebês nascem do mesmo sexo" [level=2] [ref=e1174]
+        - generic [ref=e1175]: Histórias Crescer
+  - generic [ref=e1181]:
+    - generic [ref=e1183]:
+      - img "Top Globo" [ref=e1185]
+      - generic [ref=e1186]: top globo
+    - generic [ref=e1189]:
+      - generic [ref=e1191]:
+        - heading "jornalismo" [level=3] [ref=e1192]
+        - list [ref=e1193]:
+          - listitem [ref=e1194]:
+            - link "Fachin defende inquérito do Master 'doa a quem doer'" [ref=e1196] [cursor=pointer]:
+              - /url: https://g1.globo.com/politica/noticia/2026/03/09/fachin-se-reune-com-mendonca-para-discutir-caso-master.ghtml
+              - heading "Fachin defende inquérito do Master 'doa a quem doer'" [level=2] [ref=e1197]
+          - listitem [ref=e1198]:
+            - link "Classificação do PCC e CV pelos EUA vira 'armadilha eleitoral'" [ref=e1200] [cursor=pointer]:
+              - /url: https://g1.globo.com/politica/blog/octavio-guedes/post/2026/03/10/analise-classificacao-de-cv-e-pcc-como-organizacoes-terroristas.ghtml
+              - heading "Classificação do PCC e CV pelos EUA vira 'armadilha eleitoral'" [level=2] [ref=e1201]
+          - listitem [ref=e1202]:
+            - 'link "Mãe ouve filhas falarem sobre sua vida amorosa no banheiro: ''Vai morrer sem ninguém''" [ref=e1204] [cursor=pointer]':
+              - /url: https://revistacrescer.globo.com/maes-e-pais/historias/noticia/2026/03/mae-ouve-filhas-comentarem-sobre-sua-vida-amorosa-no-banheiro-vai-morrer-sem-ninguem.ghtml
+              - 'heading "Mãe ouve filhas falarem sobre sua vida amorosa no banheiro: ''Vai morrer sem ninguém''" [level=2] [ref=e1205]'
+          - listitem [ref=e1206]:
+            - 'link "Blog: Sicário mandou a Vorcaro apurações sigilosas do MPF" [ref=e1208] [cursor=pointer]':
+              - /url: https://oglobo.globo.com/blogs/malu-gaspar/post/2026/03/master-sicario-mandou-para-vorcaro-apuracoes-sigilosas-do-mpf-quatro-meses-antes-de-prisao-em-2025.ghtml
+              - 'heading "Blog: Sicário mandou a Vorcaro apurações sigilosas do MPF" [level=2] [ref=e1209]'
+          - listitem [ref=e1210]:
+            - link "Argentina passa a vender carros de luxo com desconto de até R$ 200 mil; entenda" [ref=e1212] [cursor=pointer]:
+              - /url: https://g1.globo.com/carros/noticia/2026/03/10/por-que-carros-de-luxo-na-argentina-estao-sendo-vendidos-com-desconto.ghtml
+              - heading "Argentina passa a vender carros de luxo com desconto de até R$ 200 mil; entenda" [level=2] [ref=e1213]
+      - generic [ref=e1215]:
+        - heading "esporte" [level=3] [ref=e1216]
+        - list [ref=e1217]:
+          - listitem [ref=e1218]:
+            - 'link "João x Sinner pelas oitavas em Indian Wells: veja horário do duelo contra nº 2 do mundo hoje" [ref=e1220] [cursor=pointer]':
+              - /url: https://cbn.globo.com/esporte/noticia/2026/03/09/joao-fonseca-x-jannik-sinner-veja-o-horario-do-jogo-e-onde-assistir.ghtml
+              - 'heading "João x Sinner pelas oitavas em Indian Wells: veja horário do duelo contra nº 2 do mundo hoje" [level=2] [ref=e1221]'
+          - listitem [ref=e1222]:
+            - link "Flamengo foi quem mais faturou com premiações no Brasil em 2026; veja lista" [ref=e1224] [cursor=pointer]:
+              - /url: https://ge.globo.com/gato-mestre/noticia/2026/03/09/premiacoes-2026-flamengo-abre-o-ano-na-lideranca-com-r-296-milhoes.ghtml
+              - heading "Flamengo foi quem mais faturou com premiações no Brasil em 2026; veja lista" [level=2] [ref=e1225]
+          - listitem [ref=e1226]:
+            - link "Como filho de campeão brasileiro de 2002 pelo Santos se tornou promessa do Bayern" [ref=e1228] [cursor=pointer]:
+              - /url: https://ge.globo.com/sp/santos-e-regiao/futebol/times/santos/noticia/2026/03/09/como-filho-de-campeao-brasileiro-de-2002-pelo-santos-se-tornou-promessa-do-bayern-de-munique.ghtml
+              - heading "Como filho de campeão brasileiro de 2002 pelo Santos se tornou promessa do Bayern" [level=2] [ref=e1229]
+          - listitem [ref=e1230]:
+            - link "Jake Paul presenteia a noiva, estrela dos Jogos de Inverno, com carrão de R$ 2,6 milhões; vídeo" [ref=e1232] [cursor=pointer]:
+              - /url: https://ge.globo.com/olimpiadas-de-inverno/noticia/2026/03/09/jake-paul-presenteia-a-noiva-jutta-leerdam-com-carrao-de-r-26-milhoes.ghtml
+              - heading "Jake Paul presenteia a noiva, estrela dos Jogos de Inverno, com carrão de R$ 2,6 milhões; vídeo" [level=2] [ref=e1233]
+          - listitem [ref=e1234]:
+            - link "Declarações pós-título no Cariocão expõem mudança de tom e autocrítica no Fla; análise" [ref=e1236] [cursor=pointer]:
+              - /url: https://oglobo.globo.com/esportes/futebol/flamengo/noticia/2026/03/09/declaracoes-pos-titulo-do-flamengo-no-carioca-expoem-mudanca-de-tom-e-autocritica-do-elenco.ghtml
+              - heading "Declarações pós-título no Cariocão expõem mudança de tom e autocrítica no Fla; análise" [level=2] [ref=e1237]
+      - generic [ref=e1239]:
+        - heading "entretenimento" [level=3] [ref=e1240]
+        - list [ref=e1241]:
+          - listitem [ref=e1242]:
+            - link "Sincerão tem barracos, lavação de roupa suja, ofensas e alerta de Tadeu" [ref=e1244] [cursor=pointer]:
+              - /url: https://gshow.globo.com/realities/bbb/bbb-26/sincerao/noticia/sincerao-do-bbb-26-tem-barraco-lavacao-de-roupa-suja-troca-de-ofensas-e-alerta-de-tadeu-schmidt.ghtml
+              - heading "Sincerão tem barracos, lavação de roupa suja, ofensas e alerta de Tadeu" [level=2] [ref=e1245]
+          - listitem [ref=e1246]:
+            - link "Karoline Lima é flagrada com o ex, zagueiro do Fla, em restaurante no Rio" [ref=e1248] [cursor=pointer]:
+              - /url: https://revistaquem.globo.com/noticias/amor-e-sexo/noticia/2026/03/karoline-lima-e-flagrada-com-o-ex-leo-pereira-em-restaurante-no-rio.ghtml
+              - heading "Karoline Lima é flagrada com o ex, zagueiro do Fla, em restaurante no Rio" [level=2] [ref=e1249]
+          - listitem [ref=e1250]:
+            - 'link "Após rever Zé Felipe, Ana Castela muda agenda e vai à Fazenda Talismã: ''Era para ser''" [ref=e1252] [cursor=pointer]':
+              - /url: https://gshow.globo.com/cultura-pop/famosos/noticia/ana-castela-estende-temporada-com-ze-felipe-e-vai-para-fazenda-talisma-era-para-ser-um-dia.ghtml
+              - 'heading "Após rever Zé Felipe, Ana Castela muda agenda e vai à Fazenda Talismã: ''Era para ser''" [level=2] [ref=e1253]'
+          - listitem [ref=e1254]:
+            - 'link "Thaís Vasconcellos fala sobre desafio de ganhar músculos após perder 40kg: ''Bastante pele''" [ref=e1256] [cursor=pointer]':
+              - /url: https://revistaquem.globo.com/saude/fitness/noticia/2026/03/thais-vasconcellos-sobre-desafio-de-ganhar-musculos-apos-perder-40-kg-tinha-bastante-pele.ghtml
+              - 'heading "Thaís Vasconcellos fala sobre desafio de ganhar músculos após perder 40kg: ''Bastante pele''" [level=2] [ref=e1257]'
+          - listitem [ref=e1258]:
+            - link "Babu entra na briga de Chaiany com Jordana" [ref=e1260] [cursor=pointer]:
+              - /url: https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/babu-santana-entra-na-treta-entre-chaiany-e-jordana-no-bbb-26-e-dispara-fala-bonequinha.ghtml
+              - heading "Babu entra na briga de Chaiany com Jordana" [level=2] [ref=e1261]
+  - generic [ref=e1267]:
+    - list [ref=e1268]:
+      - listitem [ref=e1269]:
+        - link "g1" [ref=e1270] [cursor=pointer]:
+          - /url: https://g1.globo.com/
+      - listitem [ref=e1271]:
+        - link "Acre" [ref=e1272] [cursor=pointer]:
+          - /url: https://g1.globo.com/ac/acre/
+      - listitem [ref=e1273]:
+        - link "Alagoas" [ref=e1274] [cursor=pointer]:
+          - /url: https://g1.globo.com/al/alagoas/
+      - listitem [ref=e1275]:
+        - link "Amapá" [ref=e1276] [cursor=pointer]:
+          - /url: https://g1.globo.com/ap/amapa/
+      - listitem [ref=e1277]:
+        - link "Amazonas" [ref=e1278] [cursor=pointer]:
+          - /url: https://g1.globo.com/am/amazonas/
+      - listitem [ref=e1279]:
+        - link "Bahia" [ref=e1280] [cursor=pointer]:
+          - /url: https://g1.globo.com/ba/bahia/
+      - listitem [ref=e1281]:
+        - link "Bem Estar" [ref=e1282] [cursor=pointer]:
+          - /url: https://g1.globo.com/bemestar/
+      - listitem [ref=e1283]:
+        - link "Bom Dia Brasil" [ref=e1284] [cursor=pointer]:
+          - /url: https://g1.globo.com/bom-dia-brasil/
+      - listitem [ref=e1285]:
+        - link "Ceará" [ref=e1286] [cursor=pointer]:
+          - /url: https://g1.globo.com/ce/ceara/
+      - listitem [ref=e1287]:
+        - link "Ciência" [ref=e1288] [cursor=pointer]:
+          - /url: https://g1.globo.com/ciencia/
+      - listitem [ref=e1289]:
+        - link "Distrito Federal" [ref=e1290] [cursor=pointer]:
+          - /url: https://g1.globo.com/df/distrito-federal/
+      - listitem [ref=e1291]:
+        - link "Economia" [ref=e1292] [cursor=pointer]:
+          - /url: https://g1.globo.com/economia/
+      - listitem [ref=e1293]:
+        - link "Educação" [ref=e1294] [cursor=pointer]:
+          - /url: https://g1.globo.com/educacao/
+      - listitem [ref=e1295]:
+        - link "Empreendedorismo" [ref=e1296] [cursor=pointer]:
+          - /url: https://g1.globo.com/empreendedorismo/
+      - listitem [ref=e1297]:
+        - link "Espírito Santo" [ref=e1298] [cursor=pointer]:
+          - /url: https://g1.globo.com/es/espirito-santo/
+      - listitem [ref=e1299]:
+        - link "Fantastico" [ref=e1300] [cursor=pointer]:
+          - /url: https://g1.globo.com/fantastico/
+      - listitem [ref=e1301]:
+        - link "Fato ou Fake" [ref=e1302] [cursor=pointer]:
+          - /url: https://g1.globo.com/fato-ou-fake/
+      - listitem [ref=e1303]:
+        - link "G1 em 1 minuto" [ref=e1304] [cursor=pointer]:
+          - /url: https://g1.globo.com/g1-em-1-minuto/playlist/videos-g1-em-1-minuto.ghtml
+      - listitem [ref=e1305]:
+        - link "GloboNews" [ref=e1306] [cursor=pointer]:
+          - /url: https://g1.globo.com/globonews/
+      - listitem [ref=e1307]:
+        - link "Globo Repórter" [ref=e1308] [cursor=pointer]:
+          - /url: https://g1.globo.com/globo-reporter/
+      - listitem [ref=e1309]:
+        - link "Goiás" [ref=e1310] [cursor=pointer]:
+          - /url: https://g1.globo.com/go/goias/
+      - listitem [ref=e1311]:
+        - link "Hora 1" [ref=e1312] [cursor=pointer]:
+          - /url: https://g1.globo.com/hora1/
+      - listitem [ref=e1313]:
+        - link "Inovação" [ref=e1314] [cursor=pointer]:
+          - /url: https://g1.globo.com/inovacao/
+      - listitem [ref=e1315]:
+        - link "Jornal da Globo" [ref=e1316] [cursor=pointer]:
+          - /url: https://g1.globo.com/jornal-da-globo/
+      - listitem [ref=e1317]:
+        - link "Jornal Hoje" [ref=e1318] [cursor=pointer]:
+          - /url: https://g1.globo.com/jornal-hoje/
+      - listitem [ref=e1319]:
+        - link "Jornal Nacional" [ref=e1320] [cursor=pointer]:
+          - /url: https://g1.globo.com/jornal-nacional/
+      - listitem [ref=e1321]:
+        - link "Maranhão" [ref=e1322] [cursor=pointer]:
+          - /url: https://g1.globo.com/ma/maranhao/
+      - listitem [ref=e1323]:
+        - link "Mato Grosso" [ref=e1324] [cursor=pointer]:
+          - /url: https://g1.globo.com/mt/mato-grosso/
+      - listitem [ref=e1325]:
+        - link "Mato Grosso do Sul" [ref=e1326] [cursor=pointer]:
+          - /url: https://g1.globo.com/ms/mato-grosso-do-sul/
+      - listitem [ref=e1327]:
+        - link "Minas Gerais" [ref=e1328] [cursor=pointer]:
+          - /url: https://g1.globo.com/mg/minas-gerais/
+      - listitem [ref=e1329]:
+        - link "Meio Ambiente" [ref=e1330] [cursor=pointer]:
+          - /url: https://g1.globo.com/meio-ambiente/
+      - listitem [ref=e1331]:
+        - link "Mundo" [ref=e1332] [cursor=pointer]:
+          - /url: https://g1.globo.com/mundo/
+      - listitem [ref=e1333]:
+        - link "Olha que Legal" [ref=e1334] [cursor=pointer]:
+          - /url: https://g1.globo.com/olha-que-legal/
+      - listitem [ref=e1335]:
+        - link "Pará" [ref=e1336] [cursor=pointer]:
+          - /url: https://g1.globo.com/pa/para/
+      - listitem [ref=e1337]:
+        - link "Paraíba" [ref=e1338] [cursor=pointer]:
+          - /url: https://g1.globo.com/pb/paraiba/
+      - listitem [ref=e1339]:
+        - link "Paraná" [ref=e1340] [cursor=pointer]:
+          - /url: https://g1.globo.com/pr/parana/
+      - listitem [ref=e1341]:
+        - link "Pequenas Empresas" [ref=e1342] [cursor=pointer]:
+          - /url: https://g1.globo.com/economia/pme/pequenas-empresas-grandes-negocios/
+      - listitem [ref=e1343]:
+        - link "Pernambuco" [ref=e1344] [cursor=pointer]:
+          - /url: https://g1.globo.com/pe/pernambuco/
+      - listitem [ref=e1345]:
+        - link "Piauí" [ref=e1346] [cursor=pointer]:
+          - /url: https://g1.globo.com/pi/piaui/
+      - listitem [ref=e1347]:
+        - link "Planeta Bizarro" [ref=e1348] [cursor=pointer]:
+          - /url: https://g1.globo.com/planeta-bizarro/
+      - listitem [ref=e1349]:
+        - link "Podcast" [ref=e1350] [cursor=pointer]:
+          - /url: https://g1.globo.com/podcast/
+      - listitem [ref=e1351]:
+        - link "Política" [ref=e1352] [cursor=pointer]:
+          - /url: https://g1.globo.com/politica/
+      - listitem [ref=e1353]:
+        - link "Pop & Arte" [ref=e1354] [cursor=pointer]:
+          - /url: https://g1.globo.com/pop-arte/
+      - listitem [ref=e1355]:
+        - link "Previsão do Tempo" [ref=e1356] [cursor=pointer]:
+          - /url: https://www.climatempo.com.br/
+      - listitem [ref=e1357]:
+        - link "Profissão Repórter" [ref=e1358] [cursor=pointer]:
+          - /url: https://g1.globo.com/profissao-reporter/
+      - listitem [ref=e1359]:
+        - link "Rio de Janeiro" [ref=e1360] [cursor=pointer]:
+          - /url: https://g1.globo.com/rj/rio-de-janeiro/
+      - listitem [ref=e1361]:
+        - link "Rio Grande do Norte" [ref=e1362] [cursor=pointer]:
+          - /url: https://g1.globo.com/rn/rio-grande-do-norte/
+      - listitem [ref=e1363]:
+        - link "Rio Grande do Sul" [ref=e1364] [cursor=pointer]:
+          - /url: https://g1.globo.com/rs/rio-grande-do-sul/
+      - listitem [ref=e1365]:
+        - link "Rondônia" [ref=e1366] [cursor=pointer]:
+          - /url: https://g1.globo.com/ro/rondonia/
+      - listitem [ref=e1367]:
+        - link "Roraima" [ref=e1368] [cursor=pointer]:
+          - /url: https://g1.globo.com/rr/roraima/
+      - listitem [ref=e1369]:
+        - link "Santa Catarina" [ref=e1370] [cursor=pointer]:
+          - /url: https://g1.globo.com/sc/santa-catarina/
+      - listitem [ref=e1371]:
+        - link "Saúde" [ref=e1372] [cursor=pointer]:
+          - /url: https://g1.globo.com/saude/
+      - listitem [ref=e1373]:
+        - link "São Paulo" [ref=e1374] [cursor=pointer]:
+          - /url: https://g1.globo.com/sp/sao-paulo/
+      - listitem [ref=e1375]:
+        - link "Saúde" [ref=e1376] [cursor=pointer]:
+          - /url: https://g1.globo.com/saude/
+      - listitem [ref=e1377]:
+        - link "Sergipe" [ref=e1378] [cursor=pointer]:
+          - /url: https://g1.globo.com/se/sergipe/
+      - listitem [ref=e1379]:
+        - link "Tecnologia" [ref=e1380] [cursor=pointer]:
+          - /url: https://g1.globo.com/economia/tecnologia/
+      - listitem [ref=e1381]:
+        - link "Tocantins" [ref=e1382] [cursor=pointer]:
+          - /url: https://g1.globo.com/to/tocantins/
+      - listitem [ref=e1383]:
+        - link "Trabalho e Carreira" [ref=e1384] [cursor=pointer]:
+          - /url: https://g1.globo.com/trabalho-e-carreira/
+      - listitem [ref=e1385]:
+        - link "Turismo e Viagem" [ref=e1386] [cursor=pointer]:
+          - /url: https://g1.globo.com/turismo-e-viagem/
+      - listitem [ref=e1387]:
+        - link "Guia de Compras" [ref=e1388] [cursor=pointer]:
+          - /url: https://g1.globo.com/especiais/guia-de-compras/
+      - listitem [ref=e1389]:
+        - link "Coquetel" [ref=e1390] [cursor=pointer]:
+          - /url: https://assinecoquetel.com.br/
+      - listitem [ref=e1391]:
+        - link "G1 Jogos" [ref=e1392] [cursor=pointer]:
+          - /url: https://g1.globo.com/jogos/
+    - list [ref=e1393]:
+      - listitem [ref=e1394]:
+        - link "ge" [ref=e1395] [cursor=pointer]:
+          - /url: https://ge.globo.com/
+      - listitem [ref=e1396]:
+        - link "Agenda de Jogos" [ref=e1397] [cursor=pointer]:
+          - /url: https://ge.globo.com/agenda/
+      - listitem [ref=e1398]:
+        - link "Atletismo" [ref=e1399] [cursor=pointer]:
+          - /url: http://globoesporte.globo.com/atletismo/
+      - listitem [ref=e1400]:
+        - link "Basquete" [ref=e1401] [cursor=pointer]:
+          - /url: http://globoesporte.globo.com/basquete/
+      - listitem [ref=e1402]:
+        - link "Brasileirão A" [ref=e1403] [cursor=pointer]:
+          - /url: http://globoesporte.globo.com/futebol/brasileirao-serie-a/
+      - listitem [ref=e1404]:
+        - link "Brasileirão B" [ref=e1405] [cursor=pointer]:
+          - /url: http://globoesporte.globo.com/futebol/brasileirao-serie-b/
+      - listitem [ref=e1406]:
+        - link "Campeonato Carioca" [ref=e1407] [cursor=pointer]:
+          - /url: http://globoesporte.globo.com/rj/futebol/campeonato-carioca/index.html
+      - listitem [ref=e1408]:
+        - link "Campeonato Gaúcho" [ref=e1409] [cursor=pointer]:
+          - /url: http://globoesporte.globo.com/rs/futebol/campeonato-gaucho/index.html
+      - listitem [ref=e1410]:
+        - link "Campeonato Mineiro" [ref=e1411] [cursor=pointer]:
+          - /url: http://globoesporte.globo.com/mg/futebol/campeonato-mineiro/index.html
+      - listitem [ref=e1412]:
+        - link "Campeonato Paulista" [ref=e1413] [cursor=pointer]:
+          - /url: http://globoesporte.globo.com/sp/futebol/campeonato-paulista/index.html
+      - listitem [ref=e1414]:
+        - link "Canal Ge Fast" [ref=e1415] [cursor=pointer]:
+          - /url: https://ge.globo.com/ge-fast/ao-vivo/ge-fast-assista-agora-ao-canal-com-24-horas-de-esporte.ghtml
+      - listitem [ref=e1416]:
+        - link "Cartola" [ref=e1417] [cursor=pointer]:
+          - /url: http://globoesporte.globo.com/cartola-fc/
+      - listitem [ref=e1418]:
+        - link "Copa do Mundo da Fifa" [ref=e1419] [cursor=pointer]:
+          - /url: http://globoesporte.globo.com/futebol/copa-do-mundo/index.html
+      - listitem [ref=e1420]:
+        - link "Copa Nordeste" [ref=e1421] [cursor=pointer]:
+          - /url: https://ge.globo.com/futebol/copa-do-nordeste/
+      - listitem [ref=e1422]:
+        - link "Copa Sul-Americana" [ref=e1423] [cursor=pointer]:
+          - /url: http://globoesporte.globo.com/futebol/copa-sul-americana/index.html
+      - listitem [ref=e1424]:
+        - link "Esporte Espetacular" [ref=e1425] [cursor=pointer]:
+          - /url: http://globoesporte.globo.com/programas/esporte-espetacular/
+      - listitem [ref=e1426]:
+        - link "eSports" [ref=e1427] [cursor=pointer]:
+          - /url: https://globoesporte.globo.com/esports/
+      - listitem [ref=e1428]:
+        - link "Eu Atleta" [ref=e1429] [cursor=pointer]:
+          - /url: https://globoesporte.globo.com/eu-atleta/
+      - listitem [ref=e1430]:
+        - link "Fórmula 1" [ref=e1431] [cursor=pointer]:
+          - /url: https://globoesporte.globo.com/motor/formula-1/
+      - listitem [ref=e1432]:
+        - link "Futebol" [ref=e1433] [cursor=pointer]:
+          - /url: https://globoesporte.globo.com/futebol/
+      - listitem [ref=e1434]:
+        - link "Futebol Internacional" [ref=e1435] [cursor=pointer]:
+          - /url: https://globoesporte.globo.com/futebol/futebol-internacional/
+      - listitem [ref=e1436]:
+        - link "Futsal" [ref=e1437] [cursor=pointer]:
+          - /url: https://globoesporte.globo.com/futsal/
+      - listitem [ref=e1438]:
+        - link "Gato Mestre" [ref=e1439] [cursor=pointer]:
+          - /url: https://ge.globo.com/gato-mestre/
+      - listitem [ref=e1440]:
+        - link "Libertadores" [ref=e1441] [cursor=pointer]:
+          - /url: https://ge.globo.com/futebol/libertadores/
+      - listitem [ref=e1442]:
+        - link "Liga dos Campeões" [ref=e1443] [cursor=pointer]:
+          - /url: https://globoesporte.globo.com/futebol/futebol-internacional/liga-dos-campeoes/
+      - listitem [ref=e1444]:
+        - link "NBA" [ref=e1445] [cursor=pointer]:
+          - /url: https://ge.globo.com/basquete/nba/
+      - listitem [ref=e1446]:
+        - link "NBB" [ref=e1447] [cursor=pointer]:
+          - /url: http://globoesporte.globo.com/basquete/nbb/
+      - listitem [ref=e1448]:
+        - link "Olimpíadas" [ref=e1449] [cursor=pointer]:
+          - /url: https://globoesporte.globo.com/olimpiadas/
+      - listitem [ref=e1450]:
+        - link "Seleção Brasileira" [ref=e1451] [cursor=pointer]:
+          - /url: https://globoesporte.globo.com/futebol/selecao-brasileira/
+      - listitem [ref=e1452]:
+        - link "Skate" [ref=e1453] [cursor=pointer]:
+          - /url: https://ge.globo.com/skate/
+      - listitem [ref=e1454]:
+        - link "Surfe" [ref=e1455] [cursor=pointer]:
+          - /url: https://globoesporte.globo.com/radicais/surfe/
+      - listitem [ref=e1456]:
+        - link "Tênis" [ref=e1457] [cursor=pointer]:
+          - /url: https://globoesporte.globo.com/tenis/
+      - listitem [ref=e1458]:
+        - link "Vôlei" [ref=e1459] [cursor=pointer]:
+          - /url: https://ge.globo.com/volei/
+    - list [ref=e1460]:
+      - listitem [ref=e1461]:
+        - link "gshow" [ref=e1462] [cursor=pointer]:
+          - /url: http://gshow.globo.com/
+      - listitem [ref=e1463]:
+        - link "Novelas" [ref=e1464] [cursor=pointer]:
+          - /url: https://gshow.globo.com/novelas/
+      - listitem [ref=e1465]:
+        - link "Mania de Você" [ref=e1466] [cursor=pointer]:
+          - /url: https://gshow.globo.com/novelas/mania-de-voce/
+      - listitem [ref=e1467]:
+        - link "Volta por Cima" [ref=e1468] [cursor=pointer]:
+          - /url: https://gshow.globo.com/novelas/volta-por-cima/
+      - listitem [ref=e1469]:
+        - link "Garota do Momento" [ref=e1470] [cursor=pointer]:
+          - /url: https://gshow.globo.com/novelas/garota-do-momento/
+      - listitem [ref=e1471]:
+        - link "Resumo das Novelas" [ref=e1472] [cursor=pointer]:
+          - /url: https://gshow.globo.com/novelas/resumo/semana/
+      - listitem [ref=e1473]:
+        - link "Realities" [ref=e1474] [cursor=pointer]:
+          - /url: https://gshow.globo.com/realities/
+      - listitem [ref=e1475]:
+        - link "BBB" [ref=e1476] [cursor=pointer]:
+          - /url: https://gshow.globo.com/realities/bbb/
+      - listitem [ref=e1477]:
+        - link "Estrela da Casa" [ref=e1478] [cursor=pointer]:
+          - /url: https://gshow.globo.com/realities/estrela-da-casa/
+      - listitem [ref=e1479]:
+        - link "The Masked Singer Brasil" [ref=e1480] [cursor=pointer]:
+          - /url: https://gshow.globo.com/realities/the-masked-singer-brasil/
+      - listitem [ref=e1481]:
+        - link "Cultura Pop" [ref=e1482] [cursor=pointer]:
+          - /url: https://gshow.globo.com/cultura-pop/
+      - listitem [ref=e1483]:
+        - link "Filmes" [ref=e1484] [cursor=pointer]:
+          - /url: https://gshow.globo.com/cultura-pop/filmes/
+      - listitem [ref=e1485]:
+        - link "Séries" [ref=e1486] [cursor=pointer]:
+          - /url: https://gshow.globo.com/cultura-pop/series/
+      - listitem [ref=e1487]:
+        - link "Música" [ref=e1488] [cursor=pointer]:
+          - /url: https://gshow.globo.com/cultura-pop/musica/
+      - listitem [ref=e1489]:
+        - link "Famosos" [ref=e1490] [cursor=pointer]:
+          - /url: https://gshow.globo.com/cultura-pop/famosos/
+      - listitem [ref=e1491]:
+        - link "Viralizou" [ref=e1492] [cursor=pointer]:
+          - /url: https://gshow.globo.com/cultura-pop/viralizou/
+      - listitem [ref=e1493]:
+        - link "Comportamento" [ref=e1494] [cursor=pointer]:
+          - /url: https://gshow.globo.com/comportamento/
+      - listitem [ref=e1495]:
+        - link "Moda" [ref=e1496] [cursor=pointer]:
+          - /url: https://gshow.globo.com/comportamento/moda/
+      - listitem [ref=e1497]:
+        - link "Beleza" [ref=e1498] [cursor=pointer]:
+          - /url: https://gshow.globo.com/comportamento/beleza/
+      - listitem [ref=e1499]:
+        - link "Saúde" [ref=e1500] [cursor=pointer]:
+          - /url: https://gshow.globo.com/comportamento/saude/
+      - listitem [ref=e1501]:
+        - link "Sexualidade" [ref=e1502] [cursor=pointer]:
+          - /url: https://gshow.globo.com/comportamento/sexualidade/
+      - listitem [ref=e1503]:
+        - link "TV" [ref=e1504] [cursor=pointer]:
+          - /url: https://gshow.globo.com/tv/
+      - listitem [ref=e1505]:
+        - link "Altas Horas" [ref=e1506] [cursor=pointer]:
+          - /url: https://gshow.globo.com/tv/altas-horas/
+      - listitem [ref=e1507]:
+        - link "Caldeirão com Mion" [ref=e1508] [cursor=pointer]:
+          - /url: https://gshow.globo.com/tv/caldeirao/
+      - listitem [ref=e1509]:
+        - link "Domingão com Huck" [ref=e1510] [cursor=pointer]:
+          - /url: https://gshow.globo.com/tv/domingao-com-huck/
+      - listitem [ref=e1511]:
+        - link "É de Casa" [ref=e1512] [cursor=pointer]:
+          - /url: https://gshow.globo.com/tv/e-de-casa/
+      - listitem [ref=e1513]:
+        - link "Encontro" [ref=e1514] [cursor=pointer]:
+          - /url: https://gshow.globo.com/tv/encontro-com-patricia-poeta/
+      - listitem [ref=e1515]:
+        - link "Mais Você" [ref=e1516] [cursor=pointer]:
+          - /url: https://gshow.globo.com/tv/mais-voce/
+      - listitem [ref=e1517]:
+        - link "Globoplay" [ref=e1518] [cursor=pointer]:
+          - /url: https://gshow.globo.com/globoplay/
+      - listitem [ref=e1519]:
+        - link "GNT" [ref=e1520] [cursor=pointer]:
+          - /url: https://gshow.globo.com/gnt/
+      - listitem [ref=e1521]:
+        - link "Multishow" [ref=e1522] [cursor=pointer]:
+          - /url: https://gshow.globo.com/multishow/
+      - listitem [ref=e1523]:
+        - link "Festivais" [ref=e1524] [cursor=pointer]:
+          - /url: https://gshow.globo.com/festivais/
+      - listitem [ref=e1525]:
+        - link "Carnaval" [ref=e1526] [cursor=pointer]:
+          - /url: https://gshow.globo.com/carnaval/
+      - listitem [ref=e1527]:
+        - link "Horóscopo etc" [ref=e1528] [cursor=pointer]:
+          - /url: https://gshow.globo.com/horoscopo-etc/
+      - listitem [ref=e1529]:
+        - link "Vídeos" [ref=e1530] [cursor=pointer]:
+          - /url: https://gshow.globo.com/videos/
+      - listitem [ref=e1531]:
+        - link "receitas" [ref=e1532] [cursor=pointer]:
+          - /url: https://receitas.globo.com/
+      - listitem [ref=e1533]:
+        - link "Alimentação e saúde" [ref=e1534] [cursor=pointer]:
+          - /url: https://receitas.globo.com/blog/alimentacao-e-saude/
+      - listitem [ref=e1535]:
+        - link "Almoço" [ref=e1536] [cursor=pointer]:
+          - /url: https://receitas.globo.com/ocasioes/almoco/
+      - listitem [ref=e1537]:
+        - link "BBB" [ref=e1538] [cursor=pointer]:
+          - /url: https://receitas.globo.com/programas-e-series/bbb/
+      - listitem [ref=e1539]:
+        - link "Bela Cozinha" [ref=e1540] [cursor=pointer]:
+          - /url: https://receitas.globo.com/programas-e-series/bela-cozinha/
+      - listitem [ref=e1541]:
+        - link "Bolos" [ref=e1542] [cursor=pointer]:
+          - /url: https://receitas.globo.com/tipos-de-prato/
+      - listitem [ref=e1543]:
+        - link "Café da manhã" [ref=e1544] [cursor=pointer]:
+          - /url: https://receitas.globo.com/ocasioes/cafe-da-manha/
+      - listitem [ref=e1545]:
+        - link "Canal Receitas Fast" [ref=e1546] [cursor=pointer]:
+          - /url: https://receitas.globo.com/canal-receitas.ghtml
+      - listitem [ref=e1547]:
+        - link "Cozinha Prática" [ref=e1548] [cursor=pointer]:
+          - /url: https://receitas.globo.com/programas-e-series/cozinha-pratica/
+      - listitem [ref=e1549]:
+        - link "Curiosidades da Gastronomia" [ref=e1550] [cursor=pointer]:
+          - /url: https://receitas.globo.com/blog/curiosidades-e-gastronomia/
+      - listitem [ref=e1551]:
+        - link "Dicas e técnicas" [ref=e1552] [cursor=pointer]:
+          - /url: https://receitas.globo.com/blog/dicas-e-tecnicas/
+      - listitem [ref=e1553]:
+        - link "Doces e Sobremesas" [ref=e1554] [cursor=pointer]:
+          - /url: https://receitas.globo.com/tipos-de-prato/doces-e-sobremesas/
+      - listitem [ref=e1555]:
+        - link "Dulce Delight" [ref=e1556] [cursor=pointer]:
+          - /url: https://receitas.globo.com/programas-e-series/dulce-delight/
+      - listitem [ref=e1557]:
+        - link "É de casa" [ref=e1558] [cursor=pointer]:
+          - /url: https://receitas.globo.com/programas-e-series/e-de-casa/
+      - listitem [ref=e1559]:
+        - link "Festa Junina" [ref=e1560] [cursor=pointer]:
+          - /url: https://receitas.globo.com/datas-comemorativas/festa-junina/
+      - listitem [ref=e1561]:
+        - link "Fitness" [ref=e1562] [cursor=pointer]:
+          - /url: https://receitas.globo.com/dietas/fitness
+      - listitem [ref=e1563]:
+        - link "Jantar" [ref=e1564] [cursor=pointer]:
+          - /url: https://receitas.globo.com/ocasioes/jantar/
+      - listitem [ref=e1565]:
+        - link "Receitas do Joaquim" [ref=e1566] [cursor=pointer]:
+          - /url: https://receitas.globo.com/series-originais/receitas-do-joaquim/
+      - listitem [ref=e1567]:
+        - link "Receitas da Ju ferraz" [ref=e1568] [cursor=pointer]:
+          - /url: https://receitas.globo.com/series-originais/ju-ferraz-no-receitas
+      - listitem [ref=e1569]:
+        - link "Lanche da Tarde" [ref=e1570] [cursor=pointer]:
+          - /url: https://receitas.globo.com/ocasioes/lanche-da-tarde/
+      - listitem [ref=e1571]:
+        - link "Mais Você" [ref=e1572] [cursor=pointer]:
+          - /url: https://receitas.globo.com/programas-e-series/mais-voce/
+      - listitem [ref=e1573]:
+        - link "Mestre do Sabor" [ref=e1574] [cursor=pointer]:
+          - /url: https://receitas.globo.com/receitas-da-tv/mestre-do-sabor
+      - listitem [ref=e1575]:
+        - link "Perto do Fogo" [ref=e1576] [cursor=pointer]:
+          - /url: https://receitas.globo.com/programas-e-series/perto-do-fogo/
+      - listitem [ref=e1577]:
+        - link "Que Marravilha!" [ref=e1578] [cursor=pointer]:
+          - /url: https://receitas.globo.com/programas-e-series/que-marravilha/
+      - listitem [ref=e1579]:
+        - link "Que vinho foi esse?" [ref=e1580] [cursor=pointer]:
+          - /url: https://receitas.globo.com/series-originais/que-vinho-foi-esse/
+      - listitem [ref=e1581]:
+        - link "Receitas dos Famosos" [ref=e1582] [cursor=pointer]:
+          - /url: https://receitas.globo.com/programas-e-series/receitas-dos-famosos/
+      - listitem [ref=e1583]:
+        - link "Receitas para Crianças" [ref=e1584] [cursor=pointer]:
+          - /url: https://receitas.globo.com/tudo-sobre/receitas-para-criancas/
+      - listitem [ref=e1585]:
+        - link "Tempero de Família" [ref=e1586] [cursor=pointer]:
+          - /url: https://receitas.globo.com/programas-e-series/tempero-de-familia/
+      - listitem [ref=e1587]:
+        - link "Tortas e bolos" [ref=e1588] [cursor=pointer]:
+          - /url: https://receitas.globo.com/tipos-de-prato/bolos/
+    - list [ref=e1589]:
+      - listitem [ref=e1590]:
+        - link "globoplay" [ref=e1591] [cursor=pointer]:
+          - /url: https://globoplay.globo.com/?origemId=92438&utm_source=gcom&utm_medium=rodape
+      - listitem [ref=e1592]:
+        - link "Assista ao Vivo" [ref=e1593] [cursor=pointer]:
+          - /url: https://globoplay.globo.com/tv-globo/ao-vivo/6120663/?origemId=92438&utm_source=gcom&utm_medium=rodape
+      - listitem [ref=e1594]:
+        - link "Big Brother Brasil" [ref=e1595] [cursor=pointer]:
+          - /url: https://globoplay.globo.com/categorias/big-brother-brasil/?origemId=92438&utm_source=gcom&utm_medium=rodape
+      - listitem [ref=e1596]:
+        - link "Novelas" [ref=e1597] [cursor=pointer]:
+          - /url: https://globoplay.globo.com/categorias/novelas/?origemId=92438&utm_source=gcom&utm_medium=rodape
+      - listitem [ref=e1598]:
+        - link "Séries" [ref=e1599] [cursor=pointer]:
+          - /url: https://globoplay.globo.com/categorias/series/?origemId=92438&utm_source=gcom&utm_medium=rodape
+      - listitem [ref=e1600]:
+        - link "Filmes" [ref=e1601] [cursor=pointer]:
+          - /url: https://globoplay.globo.com/cinema/?origemId=92438&utm_source=gcom&utm_medium=rodape
+      - listitem [ref=e1602]:
+        - link "Canais" [ref=e1603] [cursor=pointer]:
+          - /url: https://globoplay.globo.com/canais/?origemId=92438&utm_source=gcom&utm_medium=rodape
+      - listitem [ref=e1604]:
+        - link "Novidades" [ref=e1605] [cursor=pointer]:
+          - /url: https://globoplay.globo.com/categorias/novidades/?origemId=92438&utm_source=gcom&utm_medium=rodape
+      - listitem [ref=e1606]:
+        - link "Top 10" [ref=e1607] [cursor=pointer]:
+          - /url: https://globoplay.globo.com/categorias/top-10/?origemId=92438&utm_source=gcom&utm_medium=rodape
+      - listitem [ref=e1608]:
+        - link "Esportes" [ref=e1609] [cursor=pointer]:
+          - /url: https://globoplay.globo.com/categorias/esportes/?origemId=92438&utm_source=gcom&utm_medium=rodape
+      - listitem [ref=e1610]:
+        - link "Originais" [ref=e1611] [cursor=pointer]:
+          - /url: https://globoplay.globo.com/categorias/originais-globoplay/?origemId=92438&utm_source=gcom&utm_medium=rodape
+      - listitem [ref=e1612]:
+        - link "Poder feminino" [ref=e1613] [cursor=pointer]:
+          - /url: https://globoplay.globo.com/categorias/dia-da-mulher/?origemId=92438&utm_source=gcom&utm_medium=rodape
+      - listitem [ref=e1614]:
+        - link "LGBTQIAP+" [ref=e1615] [cursor=pointer]:
+          - /url: https://globoplay.globo.com/categorias/series-filmes-documentarios-lgbt/?origemId=92438&utm_source=gcom&utm_medium=rodape
+      - listitem [ref=e1616]:
+        - link "Consciência Negra" [ref=e1617] [cursor=pointer]:
+          - /url: https://globoplay.globo.com/categorias/consciencia-negra/?origemId=92438&utm_source=gcom&utm_medium=rodape
+      - listitem [ref=e1618]:
+        - link "Franquias e Spin-offs" [ref=e1619] [cursor=pointer]:
+          - /url: https://globoplay.globo.com/canais/franquias-e-spin-offs/?origemId=92438&utm_source=gcom&utm_medium=rodape
+      - listitem [ref=e1620]:
+        - link "Sagas e Sequências" [ref=e1621] [cursor=pointer]:
+          - /url: https://globoplay.globo.com/canais/sagas/?origemId=92438&utm_source=gcom&utm_medium=rodape
+      - listitem [ref=e1622]:
+        - link "Jornalismo" [ref=e1623] [cursor=pointer]:
+          - /url: https://globoplay.globo.com/categorias/jornalismo/?origemId=92438&utm_source=gcom&utm_medium=rodape
+      - listitem [ref=e1624]:
+        - link "Infantil" [ref=e1625] [cursor=pointer]:
+          - /url: https://globoplay.globo.com/categorias/infantil/?origemId=92438&utm_source=gcom&utm_medium=rodape
+      - listitem [ref=e1626]:
+        - link "Variedades" [ref=e1627] [cursor=pointer]:
+          - /url: https://globoplay.globo.com/categorias/variedades/?origemId=92438&utm_source=gcom&utm_medium=rodape
+      - listitem [ref=e1628]:
+        - link "Reality Shows" [ref=e1629] [cursor=pointer]:
+          - /url: https://globoplay.globo.com/categorias/reality-shows/?origemId=92438&utm_source=gcom&utm_medium=rodape
+      - listitem [ref=e1630]:
+        - link "Documentários" [ref=e1631] [cursor=pointer]:
+          - /url: https://globoplay.globo.com/categorias/documentarios/?origemId=92438&utm_source=gcom&utm_medium=rodape
+      - listitem [ref=e1632]:
+        - link "Música" [ref=e1633] [cursor=pointer]:
+          - /url: https://globoplay.globo.com/categorias/especiais/?origemId=92438&utm_source=gcom&utm_medium=rodape
+      - listitem [ref=e1634]:
+        - link "Telecine" [ref=e1635] [cursor=pointer]:
+          - /url: https://globoplay.globo.com/canais/telecine/?origemId=92438&utm_source=gcom&utm_medium=rodape
+      - listitem [ref=e1636]:
+        - link "Combate" [ref=e1637] [cursor=pointer]:
+          - /url: https://globoplay.globo.com/canais/combate/?origemId=92438&utm_source=gcom&utm_medium=rodape
+      - listitem [ref=e1638]:
+        - link "Premiere" [ref=e1639] [cursor=pointer]:
+          - /url: https://globoplay.globo.com/canais/premiere/?origemId=92438&utm_source=gcom&utm_medium=rodape
+      - listitem [ref=e1640]:
+        - link "Fla tv" [ref=e1641] [cursor=pointer]:
+          - /url: https://globoplay.globo.com/canais/flatvmais/?origemId=92438&utm_source=gcom&utm_medium=rodape
+      - listitem [ref=e1642]:
+        - link "afiliadas" [ref=e1643] [cursor=pointer]:
+          - /url: https://redeglobo.globo.com/
+      - listitem [ref=e1644]:
+        - link "ACidade ON" [ref=e1645] [cursor=pointer]:
+          - /url: https://www.acidadeon.com/
+      - listitem [ref=e1646]:
+        - link "Tribuna" [ref=e1647] [cursor=pointer]:
+          - /url: https://www.tribunapr.com.br/
+      - listitem [ref=e1648]:
+        - link "A Gazeta" [ref=e1649] [cursor=pointer]:
+          - /url: https://www.agazeta.com.br/
+    - list [ref=e1650]:
+      - listitem [ref=e1651]:
+        - link "grupo globo" [ref=e1652] [cursor=pointer]:
+          - /url: http://grupoglobo.globo.com/
+      - listitem [ref=e1653]:
+        - link "Princípios editoriais" [ref=e1654] [cursor=pointer]:
+          - /url: http://g1.globo.com/principios-editoriais-do-grupo-globo.html
+      - listitem [ref=e1655]:
+        - link "História Grupo Globo" [ref=e1656] [cursor=pointer]:
+          - /url: https://historia.globo.com/
+      - listitem [ref=e1657]:
+        - link "Memória Globo" [ref=e1658] [cursor=pointer]:
+          - /url: https://memoriaglobo.globo.com/
+      - listitem [ref=e1659]:
+        - link "globotech" [ref=e1660] [cursor=pointer]:
+          - /url: https://globotech.globo.com/
+      - listitem [ref=e1661]:
+        - link "globo" [ref=e1662] [cursor=pointer]:
+          - /url: http://somos.globo.com
+      - listitem [ref=e1663]:
+        - link "tv globo" [ref=e1664] [cursor=pointer]:
+          - /url: https://redeglobo.globo.com/
+      - listitem [ref=e1665]:
+        - link "globo filmes" [ref=e1666] [cursor=pointer]:
+          - /url: http://globofilmes.globo.com/
+      - listitem [ref=e1667]:
+        - link "editora globo" [ref=e1668] [cursor=pointer]:
+          - /url: https://www.publicidadeeditoraglobo.com.br/
+      - listitem [ref=e1669]:
+        - link "Auto Esporte" [ref=e1670] [cursor=pointer]:
+          - /url: https://autoesporte.globo.com/
+      - listitem [ref=e1671]:
+        - link "Casa e Jardim" [ref=e1672] [cursor=pointer]:
+          - /url: http://revistacasaejardim.globo.com/
+      - listitem [ref=e1673]:
+        - link "Casa Vogue" [ref=e1674] [cursor=pointer]:
+          - /url: http://casavogue.globo.com/
+      - listitem [ref=e1675]:
+        - link "Crescer" [ref=e1676] [cursor=pointer]:
+          - /url: http://revistacrescer.globo.com/
+      - listitem [ref=e1677]:
+        - link "Época Negócios" [ref=e1678] [cursor=pointer]:
+          - /url: http://epocanegocios.globo.com/
+      - listitem [ref=e1679]:
+        - link "Extra" [ref=e1680] [cursor=pointer]:
+          - /url: http://extra.globo.com/
+      - listitem [ref=e1681]:
+        - link "Galileu" [ref=e1682] [cursor=pointer]:
+          - /url: http://revistagalileu.globo.com/
+      - listitem [ref=e1683]:
+        - link "Glamour" [ref=e1684] [cursor=pointer]:
+          - /url: http://revistaglamour.globo.com/
+      - listitem [ref=e1685]:
+        - link "Globo Rural" [ref=e1686] [cursor=pointer]:
+          - /url: http://revistagloborural.globo.com/
+      - listitem [ref=e1687]:
+        - link "GQ Brasil" [ref=e1688] [cursor=pointer]:
+          - /url: http://gq.globo.com/
+      - listitem [ref=e1689]:
+        - link "Marie Claire" [ref=e1690] [cursor=pointer]:
+          - /url: http://revistamarieclaire.globo.com/
+      - listitem [ref=e1691]:
+        - link "Monet" [ref=e1692] [cursor=pointer]:
+          - /url: http://revistamonet.globo.com/
+      - listitem [ref=e1693]:
+        - link "O Globo" [ref=e1694] [cursor=pointer]:
+          - /url: http://oglobo.globo.com/
+      - listitem [ref=e1695]:
+        - link "PEGN" [ref=e1696] [cursor=pointer]:
+          - /url: http://revistapegn.globo.com/
+      - listitem [ref=e1697]:
+        - link "Quem" [ref=e1698] [cursor=pointer]:
+          - /url: http://revistaquem.globo.com/
+      - listitem [ref=e1699]:
+        - link "Um Só Planeta" [ref=e1700] [cursor=pointer]:
+          - /url: https://umsoplaneta.globo.com/
+      - listitem [ref=e1701]:
+        - link "Valor Econômico" [ref=e1702] [cursor=pointer]:
+          - /url: http://www.valor.com.br/
+      - listitem [ref=e1703]:
+        - link "Valor Investe" [ref=e1704] [cursor=pointer]:
+          - /url: https://valorinveste.globo.com/
+      - listitem [ref=e1705]:
+        - link "Valor PRO" [ref=e1706] [cursor=pointer]:
+          - /url: https://valorpro.globo.com/?utm_source=globo&utm_medium=footer&utm_campaign=home_globocom#directdownload
+      - listitem [ref=e1707]:
+        - link "Vida de Bicho" [ref=e1708] [cursor=pointer]:
+          - /url: https://vidadebicho.globo.com/
+      - listitem [ref=e1709]:
+        - link "Vogue" [ref=e1710] [cursor=pointer]:
+          - /url: https://vogue.globo.com/
+      - listitem [ref=e1711]:
+        - link "techtudo" [ref=e1712] [cursor=pointer]:
+          - /url: https://www.techtudo.com.br/
+      - listitem [ref=e1713]:
+        - link "Celulares" [ref=e1714] [cursor=pointer]:
+          - /url: https://www.techtudo.com.br/mobile/
+      - listitem [ref=e1715]:
+        - link "TVs" [ref=e1716] [cursor=pointer]:
+          - /url: https://www.techtudo.com.br/eletronicos/tvs/
+      - listitem [ref=e1717]:
+        - link "Notebooks" [ref=e1718] [cursor=pointer]:
+          - /url: https://www.techtudo.com.br/informatica/notebooks/
+      - listitem [ref=e1719]:
+        - link "Jogos" [ref=e1720] [cursor=pointer]:
+          - /url: https://www.techtudo.com.br/jogos/
+      - listitem [ref=e1721]:
+        - link "E-sports" [ref=e1722] [cursor=pointer]:
+          - /url: https://www.techtudo.com.br/e-sports/
+      - listitem [ref=e1723]:
+        - link "Aplicativos" [ref=e1724] [cursor=pointer]:
+          - /url: https://www.techtudo.com.br/softwares/apps/
+      - listitem [ref=e1725]:
+        - link "Redes Sociais" [ref=e1726] [cursor=pointer]:
+          - /url: https://www.techtudo.com.br/softwares/apps/redes-sociais/
+      - listitem [ref=e1727]:
+        - link "Dicas e Tutoriais" [ref=e1728] [cursor=pointer]:
+          - /url: https://www.techtudo.com.br/dicas-e-tutoriais/
+      - listitem [ref=e1729]:
+        - link "Reviews" [ref=e1730] [cursor=pointer]:
+          - /url: https://www.techtudo.com.br/reviews/
+      - listitem [ref=e1731]:
+        - link "Listas" [ref=e1732] [cursor=pointer]:
+          - /url: https://www.techtudo.com.br/listas/
+      - listitem [ref=e1733]:
+        - link "Videos" [ref=e1734] [cursor=pointer]:
+          - /url: https://www.techtudo.com.br/videos/
+      - listitem [ref=e1735]:
+        - link "Fórum Techtudo" [ref=e1736] [cursor=pointer]:
+          - /url: https://forum.techtudo.globo.com/
+    - list [ref=e1737]:
+      - listitem [ref=e1738]:
+        - link "canais globo" [ref=e1739] [cursor=pointer]:
+          - /url: https://canaisglobo.globo.com/
+      - listitem [ref=e1740]:
+        - link "BIS" [ref=e1741] [cursor=pointer]:
+          - /url: https://globoplay.globo.com/canais/bis/
+      - listitem [ref=e1742]:
+        - link "Canal Brasil" [ref=e1743] [cursor=pointer]:
+          - /url: https://globoplay.globo.com/canais/canal-brasil/
+      - listitem [ref=e1744]:
+        - link "Canal off" [ref=e1745] [cursor=pointer]:
+          - /url: https://canaloff.globo.com/
+      - listitem [ref=e1746]:
+        - link "Combate" [ref=e1747] [cursor=pointer]:
+          - /url: http://combate.globo.com/
+      - listitem [ref=e1748]:
+        - link "Futura" [ref=e1749] [cursor=pointer]:
+          - /url: https://globoplay.globo.com/canais/futura/
+      - listitem [ref=e1750]:
+        - link "GloboNews" [ref=e1751] [cursor=pointer]:
+          - /url: https://globoplay.globo.com/canais/globonews/
+      - listitem [ref=e1752]:
+        - link "Gloob" [ref=e1753] [cursor=pointer]:
+          - /url: http://mundogloob.globo.com/
+      - listitem [ref=e1754]:
+        - link "Gloobinho" [ref=e1755] [cursor=pointer]:
+          - /url: https://globoplay.globo.com/canais/gloobinho/
+      - listitem [ref=e1756]:
+        - link "GNT" [ref=e1757] [cursor=pointer]:
+          - /url: http://gnt.globo.com/
+      - listitem [ref=e1758]:
+        - link "Modo Viagem" [ref=e1759] [cursor=pointer]:
+          - /url: https://globoplay.globo.com/canais/modo-viagem/
+      - listitem [ref=e1760]:
+        - link "Megapix" [ref=e1761] [cursor=pointer]:
+          - /url: https://globoplay.globo.com/canais/megapix/
+      - listitem [ref=e1762]:
+        - link "Multishow" [ref=e1763] [cursor=pointer]:
+          - /url: http://multishow.globo.com/
+      - listitem [ref=e1764]:
+        - link "Premiere" [ref=e1765] [cursor=pointer]:
+          - /url: https://globoesporte.globo.com/loja/premiere/?origemId=954
+      - listitem [ref=e1766]:
+        - link "SporTV" [ref=e1767] [cursor=pointer]:
+          - /url: https://globoesporte.globo.com/sportv/
+      - listitem [ref=e1768]:
+        - link "Telecine" [ref=e1769] [cursor=pointer]:
+          - /url: https://www.telecineplay.com.br/
+      - listitem [ref=e1770]:
+        - link "Universal +" [ref=e1771] [cursor=pointer]:
+          - /url: https://globoplay.globo.com/canais/universal/
+      - listitem [ref=e1772]:
+        - link "Viva" [ref=e1773] [cursor=pointer]:
+          - /url: https://globoplay.globo.com/canais/viva/
+      - listitem [ref=e1774]:
+        - link "sistema globo de rádio" [ref=e1775] [cursor=pointer]:
+          - /url: http://radioglobo.globo.com/
+      - listitem [ref=e1776]:
+        - link "BHFM" [ref=e1777] [cursor=pointer]:
+          - /url: https://bhfm.globo.com/
+      - listitem [ref=e1778]:
+        - link "CBN" [ref=e1779] [cursor=pointer]:
+          - /url: https://cbn.globoradio.globo.com/
+      - listitem [ref=e1780]:
+        - link "Rádio Globo" [ref=e1781] [cursor=pointer]:
+          - /url: https://radioglobo.globo.com/
+      - listitem [ref=e1782]:
+        - link "trabalhe conosco" [ref=e1783] [cursor=pointer]:
+          - /url: https://vempraglobo.g.globo/
+      - listitem [ref=e1784]:
+        - link "conta globo" [ref=e1785] [cursor=pointer]:
+          - /url: https://conta.globo.com/
+      - listitem [ref=e1786]:
+        - link "globo ventures" [ref=e1787] [cursor=pointer]:
+          - /url: https://globoventures.globo.com/
+      - listitem [ref=e1788]:
+        - link "Alice" [ref=e1789] [cursor=pointer]:
+          - /url: https://www.alice.com.br/
+      - listitem [ref=e1790]:
+        - link "Arena" [ref=e1791] [cursor=pointer]:
+          - /url: https://arena.im/
+      - listitem [ref=e1792]:
+        - link "BetMGM" [ref=e1793] [cursor=pointer]:
+          - /url: https://www.betmgm.bet.br
+      - listitem [ref=e1794]:
+        - link "Buser" [ref=e1795] [cursor=pointer]:
+          - /url: https://www.buser.com.br
+      - listitem [ref=e1796]:
+        - link "EmCasa" [ref=e1797] [cursor=pointer]:
+          - /url: https://www.emcasa.com
+      - listitem [ref=e1798]:
+        - link "Enjoei" [ref=e1799] [cursor=pointer]:
+          - /url: https://www.enjoei.com.br
+      - listitem [ref=e1800]:
+        - link "Franq" [ref=e1801] [cursor=pointer]:
+          - /url: https://site.franq.com.br/
+      - listitem [ref=e1802]:
+        - link "Gabriel" [ref=e1803] [cursor=pointer]:
+          - /url: https://www.gabriel.com.br
+      - listitem [ref=e1804]:
+        - link "Galena" [ref=e1805] [cursor=pointer]:
+          - /url: https://galena.com/
+      - listitem [ref=e1806]:
+        - link "Hashdex" [ref=e1807] [cursor=pointer]:
+          - /url: https://www.hashdex.com.br
+      - listitem [ref=e1808]:
+        - link "Idwall" [ref=e1809] [cursor=pointer]:
+          - /url: https://www.idwall.co
+      - listitem [ref=e1810]:
+        - link "Ingresse" [ref=e1811] [cursor=pointer]:
+          - /url: https://www.ingresse.com
+      - listitem [ref=e1812]:
+        - link "Kovi" [ref=e1813] [cursor=pointer]:
+          - /url: https://www.kovi.com.br
+      - listitem [ref=e1814]:
+        - link "Liv Up" [ref=e1815] [cursor=pointer]:
+          - /url: https://www.livup.com.br/
+      - listitem [ref=e1816]:
+        - link "Loja do Mecânico" [ref=e1817] [cursor=pointer]:
+          - /url: https://www.lojadomecanico.com.br
+      - listitem [ref=e1818]:
+        - link "Merama" [ref=e1819] [cursor=pointer]:
+          - /url: https://www.merama.io/
+      - listitem [ref=e1820]:
+        - link "Nomad" [ref=e1821] [cursor=pointer]:
+          - /url: https://www.nomadglobal.com
+      - listitem [ref=e1822]:
+        - link "Olist" [ref=e1823] [cursor=pointer]:
+          - /url: https://olist.com/
+      - listitem [ref=e1824]:
+        - link "Órama" [ref=e1825] [cursor=pointer]:
+          - /url: https://www.orama.com.br
+      - listitem [ref=e1826]:
+        - link "Player1 Gaming Group" [ref=e1827] [cursor=pointer]:
+          - /url: https://www.p1gg.com.br
+      - listitem [ref=e1828]:
+        - link "PetLove" [ref=e1829] [cursor=pointer]:
+          - /url: https://petlove.com.br
+      - listitem [ref=e1830]:
+        - link "Polen" [ref=e1831] [cursor=pointer]:
+          - /url: https://www.polen.me
+      - listitem [ref=e1832]:
+        - link "Proz Educação" [ref=e1833] [cursor=pointer]:
+          - /url: https://prozeducacao.com.br/
+      - listitem [ref=e1834]:
+        - link "Quinto Andar" [ref=e1835] [cursor=pointer]:
+          - /url: https://www.quintoandar.com.br/
+      - listitem [ref=e1836]:
+        - link "Sooper" [ref=e1837] [cursor=pointer]:
+          - /url: https://www.sooper.com.br
+      - listitem [ref=e1838]:
+        - link "Stone" [ref=e1839] [cursor=pointer]:
+          - /url: https://www.stone.com.br
+      - listitem [ref=e1840]:
+        - link "Winnin" [ref=e1841] [cursor=pointer]:
+          - /url: https://www.winnin.com
+      - listitem [ref=e1842]:
+        - link "Zippi" [ref=e1843] [cursor=pointer]:
+          - /url: https://zippi.com.br/
+  - contentinfo [ref=e1844]:
+    - generic [ref=e1846]:
+      - generic [ref=e1847]:
+        - link "Logo Globo.com" [ref=e1848] [cursor=pointer]:
+          - /url: https://www.globo.com/
+          - img "Logo Globo.com" [ref=e1850]
+        - navigation [ref=e1851]:
+          - link "Todos os Sites" [ref=e1852] [cursor=pointer]:
+            - /url: https://www.globo.com/todos-os-sites/
+          - link "Princípios editoriais" [ref=e1853] [cursor=pointer]:
+            - /url: http://g1.globo.com/principios-editoriais-do-grupo-globo.html
+          - link "Termo de uso" [ref=e1854] [cursor=pointer]:
+            - /url: https://login.globo.com/termosUso/6870
+          - link "Política de privacidade" [ref=e1855] [cursor=pointer]:
+            - /url: https://privacidade.globo.com/privacy-policy/
+          - link "Minha conta" [ref=e1856] [cursor=pointer]:
+            - /url: https://minhaconta.globo.com/
+          - link "Anuncie conosco" [ref=e1857] [cursor=pointer]:
+            - /url: http://negocios8.redeglobo.com.br/Paginas/Midia-Kit.aspx
+      - generic [ref=e1858]:
+        - img "Icone Globo" [ref=e1860]
+        - generic [ref=e1861]: © Copyright 2000-2026 Globo Comunicação e Participações S.A.
+  - generic [ref=e1862]:
+    - generic [ref=e1863]:
+      - button [ref=e1864]
+      - generic [ref=e1865]:
+        - button [ref=e1866] [cursor=pointer]
+        - textbox "o que você procura?" [ref=e1867]
+    - generic [ref=e1868]:
+      - list:
+        - list
+  - generic [ref=e1870]:
+    - generic [ref=e1872]:
+      - text: Nós usamos cookies e outras tecnologias semelhantes para melhorar a sua experiência em nossos serviços, personalizar publicidade e recomendar conteúdo de seu interesse. Ao utilizar nossos serviços, você está ciente dessa funcionalidade. Informamos ainda que atualizamos nosso
+      - link "Aviso de Privacidade" [ref=e1873] [cursor=pointer]:
+        - /url: https://privacidade.globo.com/privacy-policy/
+      - text: . Conheça nosso
+      - link "Portal da Privacidade" [ref=e1874] [cursor=pointer]:
+        - /url: https://privacidade.globo.com/
+      - text: e veja o nosso novo Aviso.
+    - button "Prosseguir" [ref=e1876] [cursor=pointer]
+```
